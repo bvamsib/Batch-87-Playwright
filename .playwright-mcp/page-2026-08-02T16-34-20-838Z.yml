@@ -1,0 +1,1121 @@
+- generic [active] [ref=f1e1]:
+  - generic [ref=f1e2]:
+    - generic [ref=f1e5]:
+      - generic [ref=f1e6]:
+        - link [ref=f1e7] [cursor=pointer]:
+          - /url: /
+          - img "Best Children's hospitals in India | Rainbow Hospitals" [ref=f1e8]
+        - generic [ref=f1e9]:
+          - generic [ref=f1e11]:
+            - textbox "Search Doctor's, Speciality, Blog" [ref=f1e12]:
+              - /placeholder: "Search Doctor's, Speciality, Blog "
+            - button [ref=f1e13] [cursor=pointer]
+          - generic "Appointment Helpline" [ref=f1e16]:
+            - link [ref=f1e17] [cursor=pointer]:
+              - /url: tel:18002122
+              - img "Emergency Ambulance Desktop" [ref=f1e18]
+          - link [ref=f1e20] [cursor=pointer]:
+            - /url: tel:7997079970
+            - img "Emergency Ambulance Desktop" [ref=f1e21]
+          - link:
+            - /url: tel:7997079970
+          - link "Patient Portal" [ref=f1e23] [cursor=pointer]:
+            - /url: https://www.rainbowhospitals.in/patient-portal/login
+      - navigation [ref=f1e31]:
+        - list [ref=f1e33]:
+          - listitem [ref=f1e34]:
+            - link "Child Care" [ref=f1e35] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/centre-of-excellence/children-care-hospital
+          - listitem [ref=f1e36]:
+            - link "Women Care" [ref=f1e37] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/centre-of-excellence/obstetrics-maternity-hospital
+          - listitem [ref=f1e38]:
+            - link "Fertility Care" [ref=f1e39] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/centre-of-excellence/fertility-care-hospital
+          - listitem [ref=f1e40]:
+            - link "International Patients" [ref=f1e41] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/international-patients
+          - listitem [ref=f1e42]:
+            - link "Academics & Research" [ref=f1e43] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/academics
+          - listitem [ref=f1e44]:
+            - generic [ref=f1e45]: Investor Relations
+          - listitem [ref=f1e46]:
+            - link "Our Hospitals" [ref=f1e47] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/our-centers
+    - link "Enquire Now" [ref=f1e49] [cursor=pointer]:
+      - /url: javascript:void(0);
+    - generic [ref=f1e53]:
+      - heading "Pediatric, Women & Fertility Care Hospital" [level=1] [ref=f1e54]
+      - generic [ref=f1e57]:
+        - textbox "Search for Doctor or Speciality" [ref=f1e59]:
+          - /placeholder: Search for Doctor  or Speciality
+        - combobox [ref=f1e61]:
+          - option "Select Location" [selected]
+          - option "Bengaluru"
+          - option "Chennai"
+          - option "Delhi NCR"
+          - option "Guwahati"
+          - option "Hyderabad"
+          - option "Nellore"
+          - option "Rajahmundry"
+          - option "Vijayawada"
+          - option "Visakhapatnam"
+          - option "Warangal"
+        - button "Book an Appointment" [ref=f1e63] [cursor=pointer]
+      - generic [ref=f1e65]:
+        - link [ref=f1e66] [cursor=pointer]:
+          - /url: https://www.rainbowhospitals.in/our-doctors?type=video
+          - img "Book Online Consult" [ref=f1e68]
+          - generic [ref=f1e69]: Book Online Consult
+        - link [ref=f1e70] [cursor=pointer]:
+          - /url: https://www.rainbowhospitals.in/our-doctors?type=physical
+          - img "Book Hospital Visit" [ref=f1e72]
+          - generic [ref=f1e73]: Book Hospital Visit
+        - link [ref=f1e74] [cursor=pointer]:
+          - /url: https://www.rainbowhospitals.in/vaccination
+          - img "Book Vaccine" [ref=f1e76]
+          - generic [ref=f1e77]: Book Vaccine
+        - link [ref=f1e78] [cursor=pointer]:
+          - /url: https://www.rainbowhospitals.in/scans
+          - img "Book Scans" [ref=f1e80]
+          - generic [ref=f1e81]: Book Scans
+      - paragraph [ref=f1e82]: As per Outlook Health Awards 2023*
+    - generic [ref=f1e89]:
+      - generic [ref=f1e90]:
+        - link [ref=f1e91] [cursor=pointer]:
+          - /url: our-centers
+          - img "Hospitals" [ref=f1e92]
+        - generic [ref=f1e93]: Hospitals
+        - heading "24" [level=3] [ref=f1e94]
+      - generic [ref=f1e95]:
+        - link [ref=f1e96] [cursor=pointer]:
+          - /url: our-doctors
+          - img "Doctors" [ref=f1e97]
+        - generic [ref=f1e98]: Doctors
+        - heading "1300+" [level=3] [ref=f1e99]
+      - generic [ref=f1e100]:
+        - paragraph [ref=f1e101]:
+          - img "Beds" [ref=f1e102]
+        - generic [ref=f1e103]: Beds
+        - heading "2400+" [level=3] [ref=f1e104]
+      - generic [ref=f1e105]:
+        - paragraph [ref=f1e106]:
+          - img "Deliveries" [ref=f1e107]
+        - generic [ref=f1e108]: Deliveries Done
+        - heading "2 Lac+" [level=3] [ref=f1e109]
+      - generic [ref=f1e110]:
+        - paragraph [ref=f1e111]:
+          - img "Happy Patients" [ref=f1e112]
+        - generic [ref=f1e113]: Happy Patients
+        - heading "12.5 Lacs+" [level=3] [ref=f1e114]
+    - generic [ref=f1e116]:
+      - generic [ref=f1e119]:
+        - heading "Find a Doctor" [level=2] [ref=f1e120]
+        - paragraph [ref=f1e121]: Expertise you can trust, Meet our esteemed doctors who bring exceptional knowledge, compassion, and innovation to provide top-notch care for your health and well-being.
+      - generic [ref=f1e124]:
+        - generic [ref=f1e128]:
+          - generic [ref=f1e129]:
+            - img "Search" [ref=f1e130]
+            - textbox "Select Doctor, Specialist" [ref=f1e131]
+          - button [ref=f1e132] [cursor=pointer]
+        - generic [ref=f1e135]:
+          - listbox [ref=f1e139]:
+            - option "Dr. Dinesh Kumar Chirla. - Director Intensive Care Services - Rainbow Children's Hospital Dr. Dinesh Kumar Chirla. Director Intensive Care Services - Rainbow Children's Hospital 32+ Years English,Hindi,Telugu Banjara Hills, Financial District Online Consult Hospital Visit Dr. Sirisha Rani - Sr. Consultant Dr. Sirisha Rani Sr. Consultant 20 Years English,Hindi,Kannada,Tamil,Telugu Currency Nagar, Banjara Hills Online Consult Hospital Visit Dr. PRANATHI REDDY A - Clinical Director – Obstetrics & Gynecology. Dr. Pranathi Reddy A Clinical Director – Obstetrics & Gynecology. English,Hindi,Telugu Banjara Hills Online Consult Hospital Visit Dr. RATNA DURVASULA - Consultant Infertility Dr. Ratna Durvasula Consultant Infertility English,Telugu Kondapur OP, Banjara Hills, Financial District, Kondapur IP Online Consult Hospital Visit" [ref=f1e140]:
+              - generic [ref=f1e142]:
+                - generic [ref=f1e143]:
+                  - paragraph [ref=f1e144]:
+                    - link [ref=f1e145] [cursor=pointer]:
+                      - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-dinesh-kumar-chirla-pediatric-intensivist
+                      - img "Dr. Dinesh Kumar Chirla. - Director Intensive Care Services - Rainbow Children's Hospital" [ref=f1e146]
+                  - generic [ref=f1e147]:
+                    - heading "Dr. Dinesh Kumar Chirla." [level=2] [ref=f1e148]
+                    - paragraph [ref=f1e149]: Director Intensive Care Services - Rainbow Children's Hospital
+                    - generic [ref=f1e150]: 32+ Years
+                    - generic [ref=f1e156]: English,Hindi,Telugu
+                    - generic [ref=f1e160]: Banjara Hills, Financial District
+                - generic [ref=f1e165]:
+                  - link "Online Consult" [ref=f1e166] [cursor=pointer]:
+                    - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-dinesh-kumar-chirla-pediatric-intensivist?t=vc
+                  - link "Hospital Visit" [ref=f1e167] [cursor=pointer]:
+                    - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-dinesh-kumar-chirla-pediatric-intensivist?t=pc
+              - generic [ref=f1e169]:
+                - generic [ref=f1e170]:
+                  - paragraph [ref=f1e171]:
+                    - link [ref=f1e172] [cursor=pointer]:
+                      - /url: https://www.rainbowhospitals.in/all/doctor/vijayawada/currency-nagar/children-care-hospital/dr-sirisha-rani-pediatric-hematologist-oncologist-bone-marrow-transplant-specialist
+                      - img "Dr. Sirisha Rani - Sr. Consultant" [ref=f1e173]
+                  - generic [ref=f1e174]:
+                    - heading "Dr. Sirisha Rani" [level=2] [ref=f1e175]
+                    - paragraph [ref=f1e176]: Sr. Consultant
+                    - generic [ref=f1e177]: 20 Years
+                    - generic [ref=f1e183]: English,Hindi,Kannada,Tamil,Telugu
+                    - generic [ref=f1e187]: Currency Nagar, Banjara Hills
+                - generic [ref=f1e192]:
+                  - link "Online Consult" [ref=f1e193] [cursor=pointer]:
+                    - /url: https://www.rainbowhospitals.in/all/doctor/vijayawada/currency-nagar/children-care-hospital/dr-sirisha-rani-pediatric-hematologist-oncologist-bone-marrow-transplant-specialist?t=vc
+                  - link "Hospital Visit" [ref=f1e194] [cursor=pointer]:
+                    - /url: https://www.rainbowhospitals.in/all/doctor/vijayawada/currency-nagar/children-care-hospital/dr-sirisha-rani-pediatric-hematologist-oncologist-bone-marrow-transplant-specialist?t=pc
+              - generic [ref=f1e196]:
+                - generic [ref=f1e197]:
+                  - paragraph [ref=f1e198]:
+                    - link [ref=f1e199] [cursor=pointer]:
+                      - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/obstetrics-maternity-hospital/dr-pranathi-reddy-obstetrician-gynecologist
+                      - img "Dr. PRANATHI REDDY A - Clinical Director – Obstetrics & Gynecology." [ref=f1e200]
+                  - generic [ref=f1e201]:
+                    - heading "Dr. Pranathi Reddy A" [level=2] [ref=f1e202]
+                    - paragraph [ref=f1e203]: Clinical Director – Obstetrics & Gynecology.
+                    - generic [ref=f1e206]: English,Hindi,Telugu
+                    - generic [ref=f1e210]: Banjara Hills
+                - generic [ref=f1e215]:
+                  - link "Online Consult" [ref=f1e216] [cursor=pointer]:
+                    - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/obstetrics-maternity-hospital/dr-pranathi-reddy-obstetrician-gynecologist?t=vc
+                  - link "Hospital Visit" [ref=f1e217] [cursor=pointer]:
+                    - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/obstetrics-maternity-hospital/dr-pranathi-reddy-obstetrician-gynecologist?t=pc
+              - generic [ref=f1e219]:
+                - generic [ref=f1e220]:
+                  - paragraph [ref=f1e221]:
+                    - link [ref=f1e222] [cursor=pointer]:
+                      - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/kondapur/fertility-care-hospital/dr-durvasula-ratna-infertility-expert
+                      - img "Dr. RATNA DURVASULA - Consultant Infertility" [ref=f1e223]
+                  - generic [ref=f1e224]:
+                    - heading "Dr. Ratna Durvasula" [level=2] [ref=f1e225]
+                    - paragraph [ref=f1e226]: Consultant Infertility
+                    - generic [ref=f1e229]: English,Telugu
+                    - generic [ref=f1e233]: Kondapur OP, Banjara Hills, Financial District, Kondapur IP
+                - generic [ref=f1e238]:
+                  - link "Online Consult" [ref=f1e239] [cursor=pointer]:
+                    - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/kondapur/fertility-care-hospital/dr-durvasula-ratna-infertility-expert?t=vc
+                  - link "Hospital Visit" [ref=f1e240] [cursor=pointer]:
+                    - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/kondapur/fertility-care-hospital/dr-durvasula-ratna-infertility-expert?t=pc
+            - option "Dr. Shruthi Reddy Poddutoor - Consultant Obstetrician, Gynecologist & Laparoscopic Surgeon Dr. Shruthi Reddy Poddutoor Consultant Obstetrician, Gynecologist & Laparoscopic Surgeon English,Telugu Banjara Hills Online Consult Hospital Visit Dr. FAISAL B NAHDI - Pediatrician Dr. Faisal B Nahdi Pediatrician English,Hindi Banjara Hills Online Consult Hospital Visit Dr. SHAIKH FARHAN A RASHID - Consultant Pediatric Intensivist and Head of the Department of Pediatric Intensive Care. Dr. Shaikh Farhan A Rashid Consultant Pediatric Intensivist and Head of the Department of Pediatric Intensive Care. English,Hindi Banjara Hills Online Consult Hospital Visit Dr. CHANDRIKA S BHAT - Consultant - Pediatric Rheumatology Dr. Chandrika S Bhat Consultant - Pediatric Rheumatology 13+ Years English,Kannada,Tulu Marathahalli, Hebbal, Bannerghatta, Currency Nagar, Banjara Hills Online Consult Hospital Visit" [ref=f1e241]:
+              - generic [ref=f1e243]:
+                - generic [ref=f1e244]:
+                  - paragraph [ref=f1e245]:
+                    - link [ref=f1e246] [cursor=pointer]:
+                      - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/obstetrics-maternity-hospital/dr-shruthi-reddy-poddutoor-obstetrician-gynecologist
+                      - img "Dr. Shruthi Reddy Poddutoor - Consultant Obstetrician, Gynecologist & Laparoscopic Surgeon" [ref=f1e247]
+                  - generic [ref=f1e248]:
+                    - heading "Dr. Shruthi Reddy Poddutoor" [level=2] [ref=f1e249]
+                    - paragraph [ref=f1e250]: Consultant Obstetrician, Gynecologist & Laparoscopic Surgeon
+                    - generic [ref=f1e253]: English,Telugu
+                    - generic [ref=f1e257]: Banjara Hills
+                - generic [ref=f1e262]:
+                  - link "Online Consult" [ref=f1e263] [cursor=pointer]:
+                    - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/obstetrics-maternity-hospital/dr-shruthi-reddy-poddutoor-obstetrician-gynecologist?t=vc
+                  - link "Hospital Visit" [ref=f1e264] [cursor=pointer]:
+                    - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/obstetrics-maternity-hospital/dr-shruthi-reddy-poddutoor-obstetrician-gynecologist?t=pc
+              - generic [ref=f1e266]:
+                - generic [ref=f1e267]:
+                  - paragraph [ref=f1e268]:
+                    - link [ref=f1e269] [cursor=pointer]:
+                      - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-faisal-b-nahdi-pediatricain
+                      - img "Dr. FAISAL B NAHDI - Pediatrician" [ref=f1e270]
+                  - generic [ref=f1e271]:
+                    - heading "Dr. Faisal B Nahdi" [level=2] [ref=f1e272]
+                    - paragraph [ref=f1e273]: Pediatrician
+                    - generic [ref=f1e276]: English,Hindi
+                    - generic [ref=f1e280]: Banjara Hills
+                - generic [ref=f1e285]:
+                  - link "Online Consult" [ref=f1e286] [cursor=pointer]:
+                    - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-faisal-b-nahdi-pediatricain?t=vc
+                  - link "Hospital Visit" [ref=f1e287] [cursor=pointer]:
+                    - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-faisal-b-nahdi-pediatricain?t=pc
+              - generic [ref=f1e289]:
+                - generic [ref=f1e290]:
+                  - paragraph [ref=f1e291]:
+                    - link [ref=f1e292] [cursor=pointer]:
+                      - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-farhan-shaikh-pediatric-intentisive-specialist
+                      - img "Dr. SHAIKH FARHAN A RASHID - Consultant Pediatric Intensivist and Head of the Department of Pediatric Intensive Care." [ref=f1e293]
+                  - generic [ref=f1e294]:
+                    - heading "Dr. Shaikh Farhan A Rashid" [level=2] [ref=f1e295]
+                    - paragraph [ref=f1e296]: Consultant Pediatric Intensivist and Head of the Department of Pediatric Intensive Care.
+                    - generic [ref=f1e299]: English,Hindi
+                    - generic [ref=f1e303]: Banjara Hills
+                - generic [ref=f1e308]:
+                  - link "Online Consult" [ref=f1e309] [cursor=pointer]:
+                    - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-farhan-shaikh-pediatric-intentisive-specialist?t=vc
+                  - link "Hospital Visit" [ref=f1e310] [cursor=pointer]:
+                    - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-farhan-shaikh-pediatric-intentisive-specialist?t=pc
+              - generic [ref=f1e312]:
+                - generic [ref=f1e313]:
+                  - paragraph [ref=f1e314]:
+                    - link [ref=f1e315] [cursor=pointer]:
+                      - /url: https://www.rainbowhospitals.in/all/doctor/vijayawada/marathahalli/children-care-hospital/dr-chandrika-bhat-pediatric-rheumatologist
+                      - img "Dr. CHANDRIKA S BHAT - Consultant - Pediatric Rheumatology" [ref=f1e316]
+                  - generic [ref=f1e317]:
+                    - heading "Dr. Chandrika S Bhat" [level=2] [ref=f1e318]
+                    - paragraph [ref=f1e319]: Consultant - Pediatric Rheumatology
+                    - generic [ref=f1e320]: 13+ Years
+                    - generic [ref=f1e326]: English,Kannada,Tulu
+                    - generic [ref=f1e330]: Marathahalli, Hebbal, Bannerghatta, Currency Nagar, Banjara Hills
+                - generic [ref=f1e335]:
+                  - link "Online Consult" [ref=f1e336] [cursor=pointer]:
+                    - /url: https://www.rainbowhospitals.in/all/doctor/vijayawada/marathahalli/children-care-hospital/dr-chandrika-bhat-pediatric-rheumatologist?t=vc
+                  - link "Hospital Visit" [ref=f1e337] [cursor=pointer]:
+                    - /url: https://www.rainbowhospitals.in/all/doctor/vijayawada/marathahalli/children-care-hospital/dr-chandrika-bhat-pediatric-rheumatologist?t=pc
+            - option [ref=f1e338]:
+              - generic [ref=f1e340]:
+                - generic [ref=f1e341]:
+                  - paragraph [ref=f1e342]:
+                    - link [ref=f1e343] [cursor=pointer]:
+                      - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/hydernagar/obstetrics-maternity-hospital/dr-y-niraj-krishnamurthy-obstetrician-gynecologist-laparoscopic-surgeon
+                      - img "Dr. NIRAJ KRISHNAMURTHY YANAMANDRA - Senior Consultant Obstetrician & Gynaecologist, Laparoscopy & Hysteroscopy Surgeon" [ref=f1e344]
+                  - generic [ref=f1e345]:
+                    - heading "Dr. Niraj Krishnamurthy Yanamandra" [level=2] [ref=f1e346]
+                    - paragraph [ref=f1e347]: Senior Consultant Obstetrician & Gynaecologist, Laparoscopy & Hysteroscopy Surgeon
+                    - generic [ref=f1e350]: English,Hindi,Telugu
+                    - generic [ref=f1e354]: Hydernagar, Banjara Hills
+                - generic [ref=f1e359]:
+                  - link "Online Consult" [ref=f1e360] [cursor=pointer]:
+                    - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/hydernagar/obstetrics-maternity-hospital/dr-y-niraj-krishnamurthy-obstetrician-gynecologist-laparoscopic-surgeon?t=vc
+                  - link "Hospital Visit" [ref=f1e361] [cursor=pointer]:
+                    - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/hydernagar/obstetrics-maternity-hospital/dr-y-niraj-krishnamurthy-obstetrician-gynecologist-laparoscopic-surgeon?t=pc
+              - generic [ref=f1e363]:
+                - generic [ref=f1e364]:
+                  - paragraph [ref=f1e365]:
+                    - link [ref=f1e366] [cursor=pointer]:
+                      - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/obstetrics-maternity-hospital/dr-sasikala-kola-obstetrician-gynecologist
+                      - img "Dr. SASIKALA KOLA - Consultant Obstetrician & Gynecologist" [ref=f1e367]
+                  - generic [ref=f1e368]:
+                    - heading "Dr. Sasikala Kola" [level=2] [ref=f1e369]
+                    - paragraph [ref=f1e370]: Consultant Obstetrician & Gynecologist
+                    - generic [ref=f1e373]: English,Hindi,Telugu
+                    - generic [ref=f1e377]: Banjara Hills
+                - generic [ref=f1e382]:
+                  - link "Online Consult" [ref=f1e383] [cursor=pointer]:
+                    - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/obstetrics-maternity-hospital/dr-sasikala-kola-obstetrician-gynecologist?t=vc
+                  - link "Hospital Visit" [ref=f1e384] [cursor=pointer]:
+                    - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/obstetrics-maternity-hospital/dr-sasikala-kola-obstetrician-gynecologist?t=pc
+              - generic [ref=f1e386]:
+                - generic [ref=f1e387]:
+                  - paragraph [ref=f1e388]:
+                    - link [ref=f1e389] [cursor=pointer]:
+                      - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/obstetrics-maternity-hospital/dr-tuheena-sharma-women-physiotherapist
+                      - img "Dr. TUHEENA SHARMA - Consultant - Perinatal Physiotherapy" [ref=f1e390]
+                  - generic [ref=f1e391]:
+                    - heading "Dr. Tuheena Sharma" [level=2] [ref=f1e392]
+                    - paragraph [ref=f1e393]: Consultant - Perinatal Physiotherapy
+                    - generic [ref=f1e394]: 10 Years
+                    - generic [ref=f1e400]: English,Telugu
+                    - generic [ref=f1e404]: Banjara Hills
+                - generic [ref=f1e409]:
+                  - link "Online Consult" [ref=f1e410] [cursor=pointer]:
+                    - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/obstetrics-maternity-hospital/dr-tuheena-sharma-women-physiotherapist?t=vc
+                  - link "Hospital Visit" [ref=f1e411] [cursor=pointer]:
+                    - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/obstetrics-maternity-hospital/dr-tuheena-sharma-women-physiotherapist?t=pc
+              - generic [ref=f1e413]:
+                - generic [ref=f1e414]:
+                  - paragraph [ref=f1e415]:
+                    - link [ref=f1e416] [cursor=pointer]:
+                      - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/obstetrics-maternity-hospital/dr-nishanth-reddy-inavolu-gynecologist
+                      - img "Dr. NISHANTH REDDY INAVOLU - Visiting Consultant Physician and Diabetologist & Internal Medicine" [ref=f1e417]
+                  - generic [ref=f1e418]:
+                    - heading "Dr. Nishanth Reddy Inavolu" [level=2] [ref=f1e419]
+                    - paragraph [ref=f1e420]: Visiting Consultant Physician and Diabetologist & Internal Medicine
+                    - generic [ref=f1e423]: English,Hindi,Telugu
+                    - generic [ref=f1e427]: Banjara Hills, Himayatnagar
+                - generic [ref=f1e432]:
+                  - link "Online Consult" [ref=f1e433] [cursor=pointer]:
+                    - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/obstetrics-maternity-hospital/dr-nishanth-reddy-inavolu-gynecologist?t=vc
+                  - link "Hospital Visit" [ref=f1e434] [cursor=pointer]:
+                    - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/obstetrics-maternity-hospital/dr-nishanth-reddy-inavolu-gynecologist?t=pc
+          - link [ref=f1e436] [cursor=pointer]:
+            - /url: https://www.rainbowhospitals.in/our-doctors
+            - text: See More
+            - img "Best Children Hospital" [ref=f1e438]
+    - generic [ref=f1e440]:
+      - generic [ref=f1e443]:
+        - heading "Our Centres of Excellence" [level=2] [ref=f1e444]
+        - paragraph [ref=f1e445]: Discover Our Premier Centers of Medical Expertise.Delve deeper into the exceptional healthcare services we champion, meticulously crafted to meet global standards and dedicated to ensuring patient well-being at every touchpoint
+      - list [ref=f1e448]:
+        - listitem [ref=f1e449]:
+          - link "Child Care Hospital Child Care" [ref=f1e450] [cursor=pointer]:
+            - /url: javascript:void(0)
+            - img "Child Care Hospital" [ref=f1e451]
+            - generic [ref=f1e452]: Child Care
+          - generic [ref=f1e453]:
+            - generic [ref=f1e454]:
+              - heading "Child Care" [level=2] [ref=f1e455]
+              - paragraph [ref=f1e456]: Best Child Care Hospital Every child possesses unique qualities, and at Rainbow Children's Hospitals, we are dedicated to nurturing their holistic development and well-being through a range of comprehensive and customized services. As India's foremost childcare multi-specialty hospital chain, our commitment to excellence is anchored by our team of trained and certified Pediatricians and support staff, available round-the-clock.
+              - link [ref=f1e457] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/centre-of-excellence/children-care-hospital
+                - text: Know More
+                - img "Best Children Hospital" [ref=f1e459]
+            - list [ref=f1e460]:
+              - listitem [ref=f1e461]:
+                - link "General Pediatrics" [ref=f1e462] [cursor=pointer]:
+                  - /url: children-care-hospital/speciality/general-pediatrics-hospital
+              - listitem [ref=f1e463]:
+                - link "Children's Nutrition" [ref=f1e464] [cursor=pointer]:
+                  - /url: children-care-hospital/speciality/childrens-nutrition-hospital
+              - listitem [ref=f1e465]:
+                - link "Pediatric Infectious Disease" [ref=f1e466] [cursor=pointer]:
+                  - /url: children-care-hospital/speciality/pediatric-infectious-disease-hospital
+              - listitem [ref=f1e467]:
+                - link "Developmental & Behavioral Pediatrics" [ref=f1e468] [cursor=pointer]:
+                  - /url: children-care-hospital/speciality/developmental-and-behavioral-pediatrics-hospital
+              - listitem [ref=f1e469]:
+                - link "Speech & Language Therapy" [ref=f1e470] [cursor=pointer]:
+                  - /url: children-care-hospital/speciality/pediatric-speech-language-therapy-hospital
+              - listitem [ref=f1e471]:
+                - link "Occupational Therapy" [ref=f1e472] [cursor=pointer]:
+                  - /url: children-care-hospital/speciality/pediatric-occupational-therapy-hospital
+              - listitem [ref=f1e473]:
+                - link "Physiotherapy & Rehabilitation" [ref=f1e474] [cursor=pointer]:
+                  - /url: children-care-hospital/speciality/pediatric-physiotherapy-and-rehabilitation-hospital
+              - listitem [ref=f1e475]:
+                - link "Child Psychology" [ref=f1e476] [cursor=pointer]:
+                  - /url: children-care-hospital/speciality/child-psychology-hospital
+              - listitem [ref=f1e477]:
+                - link "Radiology" [ref=f1e478] [cursor=pointer]:
+                  - /url: children-care-hospital/speciality/pediatric-radiology-hospital
+        - listitem [ref=f1e479]:
+          - link "Women Care Hospital Women Care" [ref=f1e480] [cursor=pointer]:
+            - /url: javascript:void(0)
+            - img "Women Care Hospital" [ref=f1e481]
+            - generic [ref=f1e482]: Women Care
+        - listitem [ref=f1e483]:
+          - link "Fertility Care Hospital Fertility Care" [ref=f1e484] [cursor=pointer]:
+            - /url: javascript:void(0)
+            - img "Fertility Care Hospital" [ref=f1e485]
+            - generic [ref=f1e486]: Fertility Care
+    - generic [ref=f1e488]:
+      - generic [ref=f1e491]:
+        - heading "Our Hospitals and Clinics" [level=2] [ref=f1e492]
+        - paragraph [ref=f1e494]: Rainbow Children's Hospital stands as a testament to the hospital's continual pursuit of excellence and innovation, providing specialized care for women and children
+      - generic [ref=f1e497]:
+        - list [ref=f1e498]:
+          - listitem [ref=f1e499]:
+            - link [ref=f1e500] [cursor=pointer]:
+              - /url: javascript:void(0)
+              - img "Bengaluru" [ref=f1e502]
+              - text: Bengaluru
+          - listitem [ref=f1e503]:
+            - link [ref=f1e504] [cursor=pointer]:
+              - /url: javascript:void(0)
+              - img "Chennai" [ref=f1e506]
+              - text: Chennai
+          - listitem [ref=f1e507]:
+            - link [ref=f1e508] [cursor=pointer]:
+              - /url: javascript:void(0)
+              - img "Delhi NCR" [ref=f1e510]
+              - text: Delhi NCR
+          - listitem [ref=f1e511]:
+            - link [ref=f1e512] [cursor=pointer]:
+              - /url: javascript:void(0)
+              - img "Guwahati" [ref=f1e514]
+              - text: Guwahati
+          - listitem [ref=f1e515]:
+            - link [ref=f1e516] [cursor=pointer]:
+              - /url: javascript:void(0)
+              - img "Hyderabad" [ref=f1e518]
+              - text: Hyderabad
+          - listitem [ref=f1e519]:
+            - link [ref=f1e520] [cursor=pointer]:
+              - /url: javascript:void(0)
+              - img "Nellore" [ref=f1e522]
+              - text: Nellore
+          - listitem [ref=f1e523]:
+            - link [ref=f1e524] [cursor=pointer]:
+              - /url: javascript:void(0)
+              - img "Rajahmundry" [ref=f1e526]
+              - text: Rajahmundry
+          - listitem [ref=f1e527]:
+            - link [ref=f1e528] [cursor=pointer]:
+              - /url: javascript:void(0)
+              - img "Vijayawada" [ref=f1e530]
+              - text: Vijayawada
+          - listitem [ref=f1e531]:
+            - link [ref=f1e532] [cursor=pointer]:
+              - /url: javascript:void(0)
+              - img "Visakhapatnam" [ref=f1e534]
+              - text: Visakhapatnam
+          - listitem [ref=f1e535]:
+            - link [ref=f1e536] [cursor=pointer]:
+              - /url: javascript:void(0)
+              - img "Warangal" [ref=f1e538]
+              - text: Warangal
+        - generic [ref=f1e541]:
+          - generic [ref=f1e542]:
+            - img "Marathahalli" [ref=f1e543]
+            - link "MarathahalliBest Children Hospital":
+              - /url: https://www.rainbowhospitals.in/our-centre/bengaluru/marathahalli
+              - generic [ref=f1e544] [cursor=pointer]:
+                - text: Marathahalli
+                - img "Best Children Hospital" [ref=f1e546]
+          - generic [ref=f1e547]:
+            - img "Bannerghatta" [ref=f1e548]
+            - link "BannerghattaBest Children Hospital":
+              - /url: https://www.rainbowhospitals.in/our-centre/bengaluru/bannerghatta
+              - generic [ref=f1e549] [cursor=pointer]:
+                - text: Bannerghatta
+                - img "Best Children Hospital" [ref=f1e551]
+          - generic [ref=f1e552]:
+            - img "Hebbal" [ref=f1e553]
+            - link "HebbalBest Children Hospital":
+              - /url: https://www.rainbowhospitals.in/our-centre/bengaluru/hebbal
+              - generic [ref=f1e554] [cursor=pointer]:
+                - text: Hebbal
+                - img "Best Children Hospital" [ref=f1e556]
+          - generic [ref=f1e557]:
+            - img "Sarjapur Road" [ref=f1e558]
+            - link "Sarjapur RoadBest Children Hospital":
+              - /url: https://www.rainbowhospitals.in/our-centre/bengaluru/sarjapur-road
+              - generic [ref=f1e559] [cursor=pointer]:
+                - text: Sarjapur Road
+                - img "Best Children Hospital" [ref=f1e561]
+          - generic [ref=f1e562]:
+            - img "Electronic City" [ref=f1e563]
+            - link "Electronic CityBest Children Hospital":
+              - /url: https://www.rainbowhospitals.in/our-centre/bengaluru/electronic-city
+              - generic [ref=f1e564] [cursor=pointer]:
+                - text: Electronic City
+                - img "Best Children Hospital" [ref=f1e566]
+          - generic [ref=f1e567]:
+            - img "HRBR" [ref=f1e568]
+            - link "HRBRBest Children Hospital":
+              - /url: https://www.rainbowhospitals.in/our-centre/bengaluru/hrbr
+              - generic [ref=f1e569] [cursor=pointer]:
+                - text: HRBR
+                - img "Best Children Hospital" [ref=f1e571]
+          - generic [ref=f1e572]:
+            - img "Mahadevpura Fertility (IVF) Centre" [ref=f1e573]
+            - link "Mahadevpura Fertility (IVF) CentreBest Children Hospital":
+              - /url: https://www.rainbowhospitals.in/our-centre/bengaluru/fertility-center-mahadevapura
+              - generic [ref=f1e574] [cursor=pointer]:
+                - text: Mahadevpura Fertility (IVF) Centre
+                - img "Best Children Hospital" [ref=f1e576]
+          - generic [ref=f1e577]:
+            - img "Bannerghatta Fertility (IVF) Centre" [ref=f1e578]
+            - link "Bannerghatta Fertility (IVF) CentreBest Children Hospital":
+              - /url: https://www.rainbowhospitals.in/our-centre/bengaluru/fertility-centre-bannerghatta-road
+              - generic [ref=f1e579] [cursor=pointer]:
+                - text: Bannerghatta Fertility (IVF) Centre
+                - img "Best Children Hospital" [ref=f1e581]
+          - generic [ref=f1e582]:
+            - img "Hennur Clinic" [ref=f1e583]
+            - link "Hennur ClinicBest Children Hospital":
+              - /url: https://www.rainbowhospitals.in/our-centre/bengaluru/hennur-road
+              - generic [ref=f1e584] [cursor=pointer]:
+                - text: Hennur Clinic
+                - img "Best Children Hospital" [ref=f1e586]
+    - generic [ref=f1e588]:
+      - generic [ref=f1e591]:
+        - heading "Latest Video Articles" [level=2] [ref=f1e592]
+        - paragraph [ref=f1e593]: Embark on a journey of inspiration and hope with our patient success stories, complemented by informative videos from our dedicated doctors
+      - generic [ref=f1e597]:
+        - generic [ref=f1e598]:
+          - generic [ref=f1e599]:
+            - img "Cleft Palate Surgery" [ref=f1e600]
+            - link [ref=f1e601] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/video/cleft-palate-surgery
+          - link "Child Care" [ref=f1e602] [cursor=pointer]:
+            - /url: https://www.rainbowhospitals.in/videos?filter=1&coe=6
+          - heading "Cleft Palate Surgery" [level=2] [ref=f1e604]
+        - generic [ref=f1e605]:
+          - generic [ref=f1e606]:
+            - img "Gastro Surgery Recovery in NICU" [ref=f1e607]
+            - link [ref=f1e608] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/video/gastro-surgery-recovery-in-nicu
+          - link "Child Care" [ref=f1e609] [cursor=pointer]:
+            - /url: https://www.rainbowhospitals.in/videos?filter=1&coe=6
+          - heading "Gastro Surgery Recovery in NICU" [level=2] [ref=f1e611]
+      - link [ref=f1e612] [cursor=pointer]:
+        - /url: https://www.rainbowhospitals.in/videos
+        - text: See More
+        - img "see more" [ref=f1e614]
+    - generic [ref=f1e616]:
+      - generic [ref=f1e619]:
+        - heading "Ask Our Experts" [level=2] [ref=f1e620]
+        - paragraph [ref=f1e621]: "Unlock answers, gain insights: Engage with our esteemed experts who provide valuable guidance, expert advice, and personalized solutions to address your queries and empower your decision-making process."
+      - generic [ref=f1e627]:
+        - textbox "Ask your query here" [ref=f1e629]
+        - button [ref=f1e630] [cursor=pointer]:
+          - img "Ask Our Experts" [ref=f1e631]
+      - generic [ref=f1e634]:
+        - list [ref=f1e635]:
+          - listitem [ref=f1e636]:
+            - link "Child Care" [ref=f1e637] [cursor=pointer]:
+              - /url: javascript:void(0)
+          - listitem [ref=f1e638]:
+            - link "Women Care" [ref=f1e639] [cursor=pointer]:
+              - /url: javascript:void(0)
+          - listitem [ref=f1e640]:
+            - link "Fertility Care" [ref=f1e641] [cursor=pointer]:
+              - /url: javascript:void(0)
+        - generic [ref=f1e643]:
+          - generic [ref=f1e644]:
+            - generic [ref=f1e645]:
+              - heading "How much should my newborn sleep?" [level=2] [ref=f1e646]
+              - paragraph [ref=f1e647]: Newborns typically sleep for about 16-20 hours a day, but their sleep is divided into short periods and may not follow a regular schedule.
+              - link [ref=f1e649] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/forum/how-much-should-my-newborn-sleep
+                - text: view
+                - img "Best Children Hospital" [ref=f1e651]
+            - generic [ref=f1e652]:
+              - heading "When do babies start rolling over?" [level=2] [ref=f1e653]
+              - paragraph [ref=f1e654]: Most babies begin rolling over at around 4-6 months of age, although the timing can vary.
+              - link [ref=f1e656] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/forum/when-do-babies-start-rolling-over
+                - text: view
+                - img "Best Children Hospital" [ref=f1e658]
+            - generic [ref=f1e659]:
+              - heading "What are the typical feeding patterns for a newborn?" [level=2] [ref=f1e660]
+              - paragraph [ref=f1e661]: Newborns typically feed every 2-3 hours, as they have small stomachs. Breast milk upto 6 months is highly recommended or formula suggested by the paediatrician.
+              - link [ref=f1e663] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/forum/what-are-the-typical-feeding-patterns-for-a-newborn
+                - text: view
+                - img "Best Children Hospital" [ref=f1e665]
+            - generic [ref=f1e666]:
+              - heading "When do babies usually start sitting up?" [level=2] [ref=f1e667]
+              - paragraph [ref=f1e668]: Babies can typically sit with support at around 4-7 months and sit independently at around 6-9 months.
+              - link [ref=f1e670] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/forum/when-do-babies-usually-start-sitting-up
+                - text: view
+                - img "Best Children Hospital" [ref=f1e672]
+            - generic [ref=f1e673]:
+              - heading "What's the average age for a baby's first tooth to come in?" [level=2] [ref=f1e674]
+              - paragraph [ref=f1e675]: Babies usually get their first tooth around 6 months, but the timing can vary greatly.
+              - link [ref=f1e677] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/forum/what-s-the-average-age-for-a-baby-s-first-tooth-to-come-in
+                - text: view
+                - img "Best Children Hospital" [ref=f1e679]
+            - generic [ref=f1e680]:
+              - heading "How can I encourage my baby to start crawling?" [level=2] [ref=f1e681]
+              - paragraph [ref=f1e682]: Place toys just out of reach to motivate your baby, provide tummy time, and create a safe space for exploration.
+              - link [ref=f1e684] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/forum/how-can-i-encourage-my-baby-to-start-crawling
+                - text: view
+                - img "Best Children Hospital" [ref=f1e686]
+            - generic [ref=f1e687]:
+              - heading "What are the developmental milestones for a one-year-old?" [level=2] [ref=f1e688]
+              - paragraph [ref=f1e689]: One-year-olds often begin to walk, say a few words, show independence, and exhibit curiosity about their surroundings.
+              - link [ref=f1e691] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/forum/what-are-the-developmental-milestones-for-a-one-year-old
+                - text: view
+                - img "Best Children Hospital" [ref=f1e693]
+            - generic [ref=f1e694]:
+              - heading "When do toddlers usually start walking?" [level=2] [ref=f1e695]
+              - paragraph [ref=f1e696]: Most toddlers start walking independently between 9 and 15 months.
+              - link [ref=f1e698] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/forum/when-do-toddlers-usually-start-walking
+                - text: view
+                - img "Best Children Hospital" [ref=f1e700]
+          - link [ref=f1e702] [cursor=pointer]:
+            - /url: https://www.rainbowhospitals.in/forum
+            - text: See More
+            - img "Best Children Hospital" [ref=f1e704]
+    - generic [ref=f1e706]:
+      - generic [ref=f1e709]:
+        - heading "Blogs" [level=2] [ref=f1e710]
+        - paragraph [ref=f1e711]: Discover our most recent health articles provided by our reliable experts.
+      - generic [ref=f1e714]:
+        - list [ref=f1e715]:
+          - listitem [ref=f1e716]:
+            - link "Child Care" [ref=f1e717] [cursor=pointer]:
+              - /url: javascript:void(0)
+          - listitem [ref=f1e718]:
+            - link "Women Care" [ref=f1e719] [cursor=pointer]:
+              - /url: javascript:void(0)
+          - listitem [ref=f1e720]:
+            - link "Fertility Care" [ref=f1e721] [cursor=pointer]:
+              - /url: javascript:void(0)
+        - generic [ref=f1e723]:
+          - generic [ref=f1e724]:
+            - generic [ref=f1e725]:
+              - generic [ref=f1e726]:
+                - 'link "Stomach Infection in Babies: Symptoms, Treatment, and Hospital Care"':
+                  - /url: https://www.rainbowhospitals.in/blog/stomach-infection-babies-symptoms-treatment-hospital-care
+                  - 'img "Stomach Infection in Babies: Symptoms, Treatment, and Hospital Care" [ref=f1e727] [cursor=pointer]'
+              - generic [ref=f1e728]:
+                - generic [ref=f1e729]:
+                  - generic [ref=f1e730]: February 25
+                  - link [ref=f1e731] [cursor=pointer]:
+                    - /url: javascript:void(0)
+                    - img "Best Children Hospital" [ref=f1e733]
+                    - text: Share
+                - link [ref=f1e734] [cursor=pointer]:
+                  - /url: https://www.rainbowhospitals.in/blog/stomach-infection-babies-symptoms-treatment-hospital-care
+                  - 'heading "Stomach Infection in Babies: Symptoms, Treatment, and Hospital Care" [level=2] [ref=f1e735]'
+                - generic [ref=f1e736]: Child Care
+            - generic [ref=f1e737]:
+              - generic [ref=f1e738]:
+                - 'link "Throat Infection in Babies: Causes, Symptoms, and Treatment"':
+                  - /url: https://www.rainbowhospitals.in/blog/throat-infection-babies-causes-symptoms-treatment
+                  - 'img "Throat Infection in Babies: Causes, Symptoms, and Treatment" [ref=f1e739] [cursor=pointer]'
+              - generic [ref=f1e740]:
+                - generic [ref=f1e741]:
+                  - generic [ref=f1e742]: February 25
+                  - link [ref=f1e743] [cursor=pointer]:
+                    - /url: javascript:void(0)
+                    - img "Best Children Hospital" [ref=f1e745]
+                    - text: Share
+                - link [ref=f1e746] [cursor=pointer]:
+                  - /url: https://www.rainbowhospitals.in/blog/throat-infection-babies-causes-symptoms-treatment
+                  - 'heading "Throat Infection in Babies: Causes, Symptoms, and Treatment" [level=2] [ref=f1e747]'
+                - generic [ref=f1e748]: Child Care
+            - generic [ref=f1e749]:
+              - generic [ref=f1e750]:
+                - 'link "Baby Movements in the Third Trimester: How to Track & When to Call"':
+                  - /url: https://www.rainbowhospitals.in/blog/baby-movements-third-trimester-track-call
+                  - 'img "Baby Movements in the Third Trimester: How to Track & When to Call" [ref=f1e751] [cursor=pointer]'
+              - generic [ref=f1e752]:
+                - generic [ref=f1e753]:
+                  - generic [ref=f1e754]: December 11
+                  - link [ref=f1e755] [cursor=pointer]:
+                    - /url: javascript:void(0)
+                    - img "Best Children Hospital" [ref=f1e757]
+                    - text: Share
+                - link [ref=f1e758] [cursor=pointer]:
+                  - /url: https://www.rainbowhospitals.in/blog/baby-movements-third-trimester-track-call
+                  - 'heading "Baby Movements in the Third Trimester: How to Track & When to Call" [level=2] [ref=f1e759]'
+                - generic [ref=f1e760]: Child Care
+            - generic [ref=f1e761]:
+              - generic [ref=f1e762]:
+                - 'link "Newborn Sneezing: What’s Normal, What Needs a Call, and How to Clear a Tiny Nose"':
+                  - /url: https://www.rainbowhospitals.in/blog/newborn-sneezing-whats-normal-and-when-to-call-doctor
+                  - 'img "Newborn Sneezing: What’s Normal, What Needs a Call, and How to Clear a Tiny Nose" [ref=f1e763] [cursor=pointer]'
+              - generic [ref=f1e764]:
+                - generic [ref=f1e765]:
+                  - generic [ref=f1e766]: September 23
+                  - link [ref=f1e767] [cursor=pointer]:
+                    - /url: javascript:void(0)
+                    - img "Best Children Hospital" [ref=f1e769]
+                    - text: Share
+                - link [ref=f1e770] [cursor=pointer]:
+                  - /url: https://www.rainbowhospitals.in/blog/newborn-sneezing-whats-normal-and-when-to-call-doctor
+                  - 'heading "Newborn Sneezing: What’s Normal, What Needs a Call, and How to Clear a Tiny Nose" [level=2] [ref=f1e771]'
+                - generic [ref=f1e772]: Child Care
+            - generic [ref=f1e773]:
+              - generic [ref=f1e774]:
+                - link "The “Best Allergy Medicine for Kids” Is a Myth – Here’s the Fix That Actually Works":
+                  - /url: https://www.rainbowhospitals.in/blog/best-allergy-medicine-for-kids
+                  - img "The “Best Allergy Medicine for Kids” Is a Myth – Here’s the Fix That Actually Works" [ref=f1e775] [cursor=pointer]
+              - generic [ref=f1e776]:
+                - generic [ref=f1e777]:
+                  - generic [ref=f1e778]: September 15
+                  - link [ref=f1e779] [cursor=pointer]:
+                    - /url: javascript:void(0)
+                    - img "Best Children Hospital" [ref=f1e781]
+                    - text: Share
+                - link [ref=f1e782] [cursor=pointer]:
+                  - /url: https://www.rainbowhospitals.in/blog/best-allergy-medicine-for-kids
+                  - heading "The “Best Allergy Medicine for Kids” Is a Myth – Here’s the Fix That Actually Works" [level=2] [ref=f1e783]
+                - generic [ref=f1e784]: Child Care
+            - generic [ref=f1e785]:
+              - generic [ref=f1e786]:
+                - 'link "Baby Growth Spurts: What They Are and How to Handle Them"':
+                  - /url: https://www.rainbowhospitals.in/blog/baby-growth-spurts-signs-stages-tips
+                  - 'img "Baby Growth Spurts: What They Are and How to Handle Them" [ref=f1e787] [cursor=pointer]'
+              - generic [ref=f1e788]:
+                - generic [ref=f1e789]:
+                  - generic [ref=f1e790]: August 12
+                  - link [ref=f1e791] [cursor=pointer]:
+                    - /url: javascript:void(0)
+                    - img "Best Children Hospital" [ref=f1e793]
+                    - text: Share
+                - link [ref=f1e794] [cursor=pointer]:
+                  - /url: https://www.rainbowhospitals.in/blog/baby-growth-spurts-signs-stages-tips
+                  - 'heading "Baby Growth Spurts: What They Are and How to Handle Them" [level=2] [ref=f1e795]'
+                - generic [ref=f1e796]: Child Care
+          - link [ref=f1e798] [cursor=pointer]:
+            - /url: /blogs
+            - text: See More
+            - img "Best Children Hospital" [ref=f1e800]
+    - generic [ref=f1e802]:
+      - heading "Media" [level=2] [ref=f1e806]
+      - toolbar [ref=f1e809]:
+        - button "Previous" [ref=f1e810] [cursor=pointer]
+        - listbox [ref=f1e812]:
+          - generic [ref=f1e813]:
+            - link [ref=f1e814] [cursor=pointer]:
+              - /url: https://www.bwhealthcareworld.com/article/paediatric-diabetes-on-the-rise-the-link-between-obesity-early-onset-type-2-diabetes-574689
+            - generic [ref=f1e816]: "Paediatric Diabetes On The Rise: The Link Between Obesity & Early-Onset Type 2 Diabetes"
+          - generic [ref=f1e817]:
+            - link [ref=f1e818] [cursor=pointer]:
+              - /url: https://www.news18.com/amp/lifestyle/health-and-fitness/paediatricians-explain-why-babies-face-the-greatest-risk-from-post-fireworks-smog-ws-el-9611775.html
+            - generic [ref=f1e820]: Paediatricians Explain Why Babies Face The Greatest Risk From Post-Fireworks Smog
+          - generic [ref=f1e821]:
+            - link [ref=f1e822] [cursor=pointer]:
+              - /url: https://www.hindustantimes.com/ht-insight/public-health/link-between-obesity-and-early-onset-type-2-diabetes-101759463299808.html
+            - generic [ref=f1e824]: Link between obesity and early-onset Type 2 diabetes
+          - option "Rainbow Hospitals targets 3,165 beds by FY29, eyes high birth North India as key growth engine Rainbow Hospitals targets 3,165 beds by FY29, eyes high birth North India as key growth engine" [ref=f1e825]:
+            - link [ref=f1e826] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/news/business/rainbow-hospitals-targets-3-165-beds-by-fy29-eyes-high-birth-north-india-as-key-growth-engine-13699932.html
+              - img "Rainbow Hospitals targets 3,165 beds by FY29, eyes high birth North India as key growth engine" [ref=f1e827]
+            - generic [ref=f1e828]: Rainbow Hospitals targets 3,165 beds by FY29, eyes high birth North India as key growth engine
+          - option "Rainbow Children's Hospital to add 900 beds, with half coming up in NCR Rainbow Children's Hospital to add 900 beds, with half coming up in NCR" [ref=f1e829]:
+            - link [ref=f1e830] [cursor=pointer]:
+              - /url: https://www.business-standard.com/companies/news/rainbow-childrens-hospital-north-expansion-ncr-beds-125112700816_1.html
+              - img "Rainbow Children's Hospital to add 900 beds, with half coming up in NCR" [ref=f1e831]
+            - generic [ref=f1e832]: Rainbow Children's Hospital to add 900 beds, with half coming up in NCR
+          - option "Alarm bells ring as breast cancer cases hit record high Alarm bells ring as breast cancer cases hit record high" [ref=f1e833]:
+            - link [ref=f1e834] [cursor=pointer]:
+              - /url: https://bangaloremirror.indiatimes.com/bangalore/civic/alarm-bells-ring-as-breast-cancer-cases-hit-record-high/articleshow/124488026.cms#:~:text=The%20age%2Dadjusted%20incidence%20rate,of%20all%20female%20cancers%20treated.
+              - img "Alarm bells ring as breast cancer cases hit record high" [ref=f1e835]
+            - generic [ref=f1e836]: Alarm bells ring as breast cancer cases hit record high
+          - option [ref=f1e837]:
+            - link [ref=f1e838] [cursor=pointer]:
+              - /url: https://bangaloremirror.indiatimes.com/bangalore/others/dont-let-tummy-trouble-steal-your-festival-fun/articleshow/124560301.cms
+            - generic [ref=f1e840]: Don’t let tummy trouble steal your festival fun
+          - option [ref=f1e841]:
+            - link [ref=f1e842] [cursor=pointer]:
+              - /url: https://podcasts.aajtak.in//health-fitness/hello-doctor/childhood-obesity-from-school-tiffins-and-sweets-to-health-complications-hear-the-full-story-on-hello-doctor-2354174-2025-10-12
+            - generic [ref=f1e844]: "बच्चों का मोटापा! स्कूल के टिफिन, मिठाई से लेकर बीमारी तक की कहानी जानिए : हेलो डॉक्टर"
+          - option [ref=f1e845]:
+            - link [ref=f1e846] [cursor=pointer]:
+              - /url: https://www.indiatoday.in/lifestyle/wellness/story/why-a-healthy-gut-could-be-the-missing-piece-in-your-conception-story-2804595-2025-10-17
+            - generic [ref=f1e848]: Why a healthy gut could be the missing piece in your conception story
+          - option [ref=f1e849]:
+            - link [ref=f1e850] [cursor=pointer]:
+              - /url: https://www.bwhealthcareworld.com/article/paediatric-diabetes-on-the-rise-the-link-between-obesity-early-onset-type-2-diabetes-574689
+            - generic [ref=f1e852]: "Paediatric Diabetes On The Rise: The Link Between Obesity & Early-Onset Type 2 Diabetes"
+          - option [ref=f1e853]:
+            - link [ref=f1e854] [cursor=pointer]:
+              - /url: https://www.news18.com/amp/lifestyle/health-and-fitness/paediatricians-explain-why-babies-face-the-greatest-risk-from-post-fireworks-smog-ws-el-9611775.html
+            - generic [ref=f1e856]: Paediatricians Explain Why Babies Face The Greatest Risk From Post-Fireworks Smog
+          - option [ref=f1e857]:
+            - link [ref=f1e858] [cursor=pointer]:
+              - /url: https://www.hindustantimes.com/ht-insight/public-health/link-between-obesity-and-early-onset-type-2-diabetes-101759463299808.html
+            - generic [ref=f1e860]: Link between obesity and early-onset Type 2 diabetes
+          - generic [ref=f1e861]:
+            - link [ref=f1e862] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/news/business/rainbow-hospitals-targets-3-165-beds-by-fy29-eyes-high-birth-north-india-as-key-growth-engine-13699932.html
+            - generic [ref=f1e864]: Rainbow Hospitals targets 3,165 beds by FY29, eyes high birth North India as key growth engine
+          - generic [ref=f1e865]:
+            - link [ref=f1e866] [cursor=pointer]:
+              - /url: https://www.business-standard.com/companies/news/rainbow-childrens-hospital-north-expansion-ncr-beds-125112700816_1.html
+            - generic [ref=f1e868]: Rainbow Children's Hospital to add 900 beds, with half coming up in NCR
+          - generic [ref=f1e869]:
+            - link [ref=f1e870] [cursor=pointer]:
+              - /url: https://bangaloremirror.indiatimes.com/bangalore/civic/alarm-bells-ring-as-breast-cancer-cases-hit-record-high/articleshow/124488026.cms#:~:text=The%20age%2Dadjusted%20incidence%20rate,of%20all%20female%20cancers%20treated.
+            - generic [ref=f1e872]: Alarm bells ring as breast cancer cases hit record high
+        - button "Next" [ref=f1e873] [cursor=pointer]
+        - tablist [ref=f1e874]:
+          - listitem [ref=f1e875] [cursor=pointer]:
+            - button "1" [ref=f1e876]
+          - listitem [ref=f1e877] [cursor=pointer]:
+            - button [ref=f1e878]: "2"
+          - listitem [ref=f1e879] [cursor=pointer]:
+            - button [ref=f1e880]: "3"
+          - listitem [ref=f1e881] [cursor=pointer]:
+            - button [ref=f1e882]: "4"
+          - listitem [ref=f1e883] [cursor=pointer]:
+            - button [ref=f1e884]: "5"
+          - listitem [ref=f1e885] [cursor=pointer]:
+            - button [ref=f1e886]: "6"
+          - listitem [ref=f1e887] [cursor=pointer]:
+            - button [ref=f1e888]: "7"
+          - listitem [ref=f1e889] [cursor=pointer]:
+            - button [ref=f1e890]: "8"
+          - listitem [ref=f1e891] [cursor=pointer]:
+            - button [ref=f1e892]: "9"
+      - link [ref=f1e894] [cursor=pointer]:
+        - /url: https://www.rainbowhospitals.in/media
+        - text: See More
+        - img "see more" [ref=f1e896]
+    - generic [ref=f1e898]:
+      - heading "Awards" [level=2] [ref=f1e902]
+      - generic [ref=f1e905]:
+        - generic [ref=f1e906]:
+          - generic [ref=f1e909]:
+            - img "Rainbow Hospitals" [ref=f1e911]
+            - paragraph [ref=f1e913]: For the 5th Time
+          - generic [ref=f1e916]:
+            - img "Rainbow Hospitals" [ref=f1e918]
+            - paragraph [ref=f1e920]: Ranked India's No. 1 in Pediatrics, Obstetrics & Gynecology & No. 2 in Infertility-2023
+          - generic [ref=f1e923]:
+            - img "Rainbow Hospitals" [ref=f1e925]
+            - paragraph [ref=f1e927]: Guinness World Record holder for the largest gathering of people born prematurely - 2016
+          - generic [ref=f1e930]:
+            - img "Rainbow Hospitals" [ref=f1e932]
+            - paragraph [ref=f1e934]: India's first NABH Accredited Corporate Children's Hospital
+        - link [ref=f1e936] [cursor=pointer]:
+          - /url: /awards
+          - text: See More
+          - img "See More" [ref=f1e938]
+  - generic [ref=f1e939]:
+    - generic [ref=f1e942]:
+      - generic [ref=f1e943]:
+        - generic [ref=f1e944]:
+          - heading "Patient Care" [level=3] [ref=f1e945]
+          - list [ref=f1e946]:
+            - listitem [ref=f1e947]:
+              - link "Find a Doctor" [ref=f1e948] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/our-doctors
+            - listitem [ref=f1e949]:
+              - link "Book Physical Consultation" [ref=f1e950] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/our-doctors?type=physical
+            - listitem [ref=f1e951]:
+              - link "Book Video Consultation" [ref=f1e952] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/our-doctors?type=video
+            - listitem [ref=f1e953]:
+              - link "Vaccination" [ref=f1e954] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/vaccination
+            - listitem [ref=f1e955]:
+              - link "Pregnancy Scan" [ref=f1e956] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/scans
+            - listitem [ref=f1e957]:
+              - link "International Patients" [ref=f1e958] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/international-patients
+            - listitem [ref=f1e959]:
+              - link "Online Antenatal Session" [ref=f1e960] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/anc
+            - listitem [ref=f1e961]:
+              - link "Online Postnatal Session" [ref=f1e962] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/pnc
+            - listitem [ref=f1e963]:
+              - link "AVON" [ref=f1e964] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/avon
+            - listitem [ref=f1e965]:
+              - link "Rainbow Shield" [ref=f1e966] [cursor=pointer]:
+                - /url: https://www.rainbowshield.in/
+        - generic [ref=f1e967]:
+          - heading "Centres of Excellence" [level=3] [ref=f1e968]
+          - list [ref=f1e969]:
+            - listitem [ref=f1e970]:
+              - link "Child Care" [ref=f1e971] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/centre-of-excellence/children-care-hospital
+            - listitem [ref=f1e972]:
+              - link "Women Care" [ref=f1e973] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/centre-of-excellence/obstetrics-maternity-hospital
+            - listitem [ref=f1e974]:
+              - link "Fertility Care" [ref=f1e975] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/centre-of-excellence/fertility-care-hospital
+        - generic [ref=f1e976]:
+          - heading "Hospitals Locations" [level=3] [ref=f1e977]
+          - list [ref=f1e978]:
+            - listitem [ref=f1e979]:
+              - link "Hospitals in Hyderabad" [ref=f1e980] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/our-centre-detail/hyderabad
+            - listitem [ref=f1e981]:
+              - link "Hospitals in Bengaluru" [ref=f1e982] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/our-centre-detail/bengaluru
+            - listitem [ref=f1e983]:
+              - link "Hospitals in Delhi NCR" [ref=f1e984] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/our-centre-detail/delhi
+            - listitem [ref=f1e985]:
+              - link "Hospitals in Chennai" [ref=f1e986] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/our-centre-detail/chennai
+            - listitem [ref=f1e987]:
+              - link "Hospitals in Vijayawada" [ref=f1e988] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/our-centre-detail/vijayawada
+            - listitem [ref=f1e989]:
+              - link "Hospitals in Visakhapatnam" [ref=f1e990] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/our-centre-detail/visakhapatnam
+            - listitem [ref=f1e991]:
+              - link "Hospitals in Warangal" [ref=f1e992] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/our-centre-detail/warangal
+            - listitem [ref=f1e993]:
+              - link "Hospitals in Guwahati" [ref=f1e994] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/our-centre-detail/guwahati
+            - listitem [ref=f1e995]:
+              - link "Hospitals in Rajahmundry" [ref=f1e996] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/our-centre-detail/rajahmundry
+            - listitem [ref=f1e997]:
+              - link "Hospitals in Nellore" [ref=f1e998] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/our-centre-detail/nellore
+      - generic [ref=f1e1000]:
+        - heading "Top Specialities" [level=3] [ref=f1e1001]
+        - list [ref=f1e1002]:
+          - listitem [ref=f1e1003]:
+            - link "Emergency Care" [ref=f1e1004] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/emergency-services
+          - listitem [ref=f1e1005]:
+            - link "General Pediatrician" [ref=f1e1006] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/children-care-hospital/speciality/general-pediatrics-hospital
+          - listitem [ref=f1e1007]:
+            - link "Neonatal Intensive Care Unit" [ref=f1e1008] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/children-care-hospital/speciality/neonatal-intensive-care-unit-hospital
+          - listitem [ref=f1e1009]:
+            - link "Pediatric Intensive Care Unit" [ref=f1e1010] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/children-care-hospital/speciality/pediatric-intensive-care-unit-hospital
+          - listitem [ref=f1e1011]:
+            - link "Pediatric Neurology" [ref=f1e1012] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/children-care-hospital/speciality/pediatric-neurology-hospital
+          - listitem [ref=f1e1013]:
+            - link "Pediatric Hemato- Oncology" [ref=f1e1014] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/children-care-hospital/speciality/pediatric-hematology-and-oncology-hospital
+          - listitem [ref=f1e1015]:
+            - link "Pediatric ENT" [ref=f1e1016] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/children-care-hospital/speciality/pediatric-ent-and-airway-hospital
+          - listitem [ref=f1e1017]:
+            - link "Pediatric Urologist" [ref=f1e1018] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/children-care-hospital/speciality/pediatrics-urology-hospital
+          - listitem [ref=f1e1019]:
+            - link "Pediatric Gastroenterologist" [ref=f1e1020] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/children-care-hospital/speciality/pediatric-gastroenterology-hepatology-hospital
+          - listitem [ref=f1e1021]:
+            - link "Pediatric Cardiologist" [ref=f1e1022] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/children-care-hospital/speciality/pediatric-cardiology-hospital
+          - listitem [ref=f1e1023]:
+            - link "Pediatric Orthopedics" [ref=f1e1024] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/children-care-hospital/speciality/pediatric-orthopedic-hospital
+          - listitem [ref=f1e1025]:
+            - link "Pediatric Ophthalmology" [ref=f1e1026] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/children-care-hospital/speciality/pediatric-ophthalmology-hospital
+          - listitem [ref=f1e1027]:
+            - link "Pediatric Dentistry" [ref=f1e1028] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/children-care-hospital/speciality/pediatric-dental-hospital
+          - listitem [ref=f1e1029]:
+            - link "Pediatric Physiotherapy" [ref=f1e1030] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/children-care-hospital/speciality/pediatric-physiotherapy-and-rehabilitation-hospital
+          - listitem [ref=f1e1031]:
+            - link "Pediatric Endocrinology" [ref=f1e1032] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/children-care-hospital/speciality/pediatric-endocrinology-hospital
+          - listitem [ref=f1e1033]:
+            - link "Women’s Nutrition" [ref=f1e1034] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/obstetrics-maternity-hospital/speciality/women-nutrition-hospital
+          - listitem [ref=f1e1035]:
+            - link "Pregnancy & Delivery" [ref=f1e1036] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/obstetrics-maternity-hospital/speciality/pregnancy-and-delivery-hospital
+          - listitem [ref=f1e1037]:
+            - link "Painless Delivery & Labor" [ref=f1e1038] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/obstetrics-maternity-hospital/speciality/painless-delivery-and-labor-hospital
+          - listitem [ref=f1e1039]:
+            - link "In Vitro Fertilization (IVF)" [ref=f1e1040] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/fertility-care-hospital/speciality/in-vitro-fertilization-treatment
+          - listitem [ref=f1e1041]:
+            - link "Infertility" [ref=f1e1042] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/fertility-care-hospital/speciality/infertility-treatment
+      - generic [ref=f1e1044]:
+        - heading "Quick Search" [level=3] [ref=f1e1045]
+        - list [ref=f1e1046]:
+          - listitem [ref=f1e1047]:
+            - link "Best Pediatrician in Hyderabad" [ref=f1e1048] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/doctors/best-pediatrician-in-hyderabad
+          - listitem [ref=f1e1049]:
+            - link "Best Pediatrician in Bengaluru" [ref=f1e1050] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/doctors/best-pediatrician-in-bangalore
+          - listitem [ref=f1e1051]:
+            - link "Best Pediatrician in Delhi" [ref=f1e1052] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/doctors/best-pediatrician-in-delhi
+          - listitem [ref=f1e1053]:
+            - link "Best Pediatrician in Chennai" [ref=f1e1054] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/doctors/best-pediatrician-in-chennai
+          - listitem [ref=f1e1055]:
+            - link "Best Pediatrician in Vijayawada" [ref=f1e1056] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/doctors/best-pediatrician-in-vijayawada
+          - listitem [ref=f1e1057]:
+            - link "Best Pediatrician in Vizag" [ref=f1e1058] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/doctors/best-pediatrician-in-vizag
+          - listitem [ref=f1e1059]:
+            - link "Best Gynecology and Obstetrician in Hyderabad" [ref=f1e1060] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/doctors/best-gynecologist-in-hyderabad
+          - listitem [ref=f1e1061]:
+            - link "Best Gynecology and Obstetrician in Bengaluru" [ref=f1e1062] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/doctors/best-gynecologist-in-bangalore
+          - listitem [ref=f1e1063]:
+            - link "Best Gynecology and Obstetrician in Delhi" [ref=f1e1064] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/doctors/best-gynecologist-in-delhi
+          - listitem [ref=f1e1065]:
+            - link "Best Gynecology and Obstetrician in Chennai" [ref=f1e1066] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/doctors/best-gynecologist-in-chennai
+          - listitem [ref=f1e1067]:
+            - link "Best Gynecology and Obstetrician in Vijayawada" [ref=f1e1068] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/doctors/best-gynecologist-in-vijayawada
+          - listitem [ref=f1e1069]:
+            - link "Best Gynecology and Obstetrician in Vizag" [ref=f1e1070] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/doctors/best-gynecologist-in-vizag
+          - listitem [ref=f1e1071]:
+            - link "Best Fertility Specialist in Hyderabad" [ref=f1e1072] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/doctors/best-fertility-specialist-in-hyderabad
+          - listitem [ref=f1e1073]:
+            - link "Best Fertility Specialist in Bengaluru" [ref=f1e1074] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/doctors/fertility-specialists-in-bangalore
+          - listitem [ref=f1e1075]:
+            - link "Best Fertility Specialist in Delhi" [ref=f1e1076] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/doctors/best-fertility-doctor-in-delhi
+          - listitem [ref=f1e1077]:
+            - link "Best Fertility Specialist in Chennai" [ref=f1e1078] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/doctors/best-fertility-doctor-in-chennai
+          - listitem [ref=f1e1079]:
+            - link "Best Fertility Specialist in Vijayawada" [ref=f1e1080] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/doctors/best-fertility-doctors-in-vijayawada
+          - listitem [ref=f1e1081]:
+            - link "Best Fertility Specialist in Vizag" [ref=f1e1082] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/doctors/best-fertility-doctor-in-vizag
+      - generic [ref=f1e1084]:
+        - heading "Corporate" [level=3] [ref=f1e1085]
+        - list [ref=f1e1086]:
+          - listitem [ref=f1e1087]:
+            - link "About Us" [ref=f1e1088] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/about
+          - listitem [ref=f1e1089]:
+            - link "Investor Relations" [ref=f1e1090] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/investors-relations/shareholder-information
+          - listitem [ref=f1e1091]:
+            - link "SEBI Smart ODR Portal" [ref=f1e1092] [cursor=pointer]:
+              - /url: https://smartodr.in/login
+          - listitem [ref=f1e1093]:
+            - link "SEBI Scores Portal" [ref=f1e1094] [cursor=pointer]:
+              - /url: https://scores.sebi.gov.in/
+          - listitem [ref=f1e1095]:
+            - link "Careers" [ref=f1e1096] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/careers
+          - listitem [ref=f1e1097]:
+            - link "ESG" [ref=f1e1098] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/esg
+          - listitem [ref=f1e1099]:
+            - link "BMW" [ref=f1e1100] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/bio-medical-waste
+          - listitem [ref=f1e1101]:
+            - link "Quality & Accreditation" [ref=f1e1102] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/about-us/quality-accreditation
+          - listitem [ref=f1e1103]:
+            - link "Contact Us" [ref=f1e1104] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/contact-us
+          - listitem [ref=f1e1105]:
+            - link "Blogs" [ref=f1e1106] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/blogs
+          - listitem [ref=f1e1107]:
+            - link "Videos" [ref=f1e1108] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/videos
+          - listitem [ref=f1e1109]:
+            - link "Awards" [ref=f1e1110] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/awards
+          - listitem [ref=f1e1111]:
+            - link "Media" [ref=f1e1112] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/media
+          - listitem [ref=f1e1113]:
+            - link "Pregnancy Calculators" [ref=f1e1114] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/calculators
+          - listitem [ref=f1e1115]:
+            - link "Terms and conditions" [ref=f1e1116] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/terms-and-conditions
+          - listitem [ref=f1e1117]:
+            - link "Our Partners" [ref=f1e1118] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/our-partners
+        - generic [ref=f1e1119]:
+          - link [ref=f1e1120] [cursor=pointer]:
+            - /url: https://apps.apple.com/us/app/rainbow-hospitals/id6760179478
+            - img "Best Children Hospital" [ref=f1e1121]
+          - link [ref=f1e1122] [cursor=pointer]:
+            - /url: https://play.google.com/store/apps/details?id=com.sparctechnologies.rainbow
+            - img "Best Children Hospital" [ref=f1e1123]
+    - generic [ref=f1e1129]:
+      - list [ref=f1e1130]:
+        - listitem [ref=f1e1131]:
+          - link [ref=f1e1132] [cursor=pointer]:
+            - /url: https://www.facebook.com/rainbowchildrenshospitals/
+            - img "Best Children Hospital" [ref=f1e1133]
+        - listitem [ref=f1e1134]:
+          - link [ref=f1e1135] [cursor=pointer]:
+            - /url: https://www.instagram.com/rainbowchildrenshospital/
+            - img "Best Children Hospital" [ref=f1e1136]
+        - listitem [ref=f1e1137]:
+          - link [ref=f1e1138] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/rainbow-hospitals/
+            - img "Best Children Hospital" [ref=f1e1139]
+        - listitem [ref=f1e1140]:
+          - link [ref=f1e1141] [cursor=pointer]:
+            - /url: https://twitter.com/RCH_India?t=7y-Tq_FTQ4cfPf8smLnYUg&s=08
+            - img "Best Children Hospital" [ref=f1e1142]
+        - listitem [ref=f1e1143]:
+          - link [ref=f1e1144] [cursor=pointer]:
+            - /url: https://youtube.com/@rainbowchildrenshospital?si=0nGclgW-WRX984eQ
+            - img "Best Children Hospital" [ref=f1e1145]
+      - paragraph [ref=f1e1147]: Copyright © 2026. All Rights Reserved by Rainbow Children’s Medicare Ltd.
+    - link [ref=f1e1149] [cursor=pointer]:
+      - /url: https://wa.me/+918008821031?text=Hi

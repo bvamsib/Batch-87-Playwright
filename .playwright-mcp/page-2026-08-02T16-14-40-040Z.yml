@@ -1,0 +1,860 @@
+- generic [ref=f1e2]:
+  - generic [ref=f1e5]:
+    - generic [ref=f1e6]:
+      - link [ref=f1e7] [cursor=pointer]:
+        - /url: /
+        - img "Best Children's hospitals in India | Rainbow Hospitals" [ref=f1e8]
+      - generic [ref=f1e9]:
+        - generic [ref=f1e11]:
+          - textbox "Search Doctor's, Speciality, Blog" [ref=f1e12]:
+            - /placeholder: "Search Doctor's, Speciality, Blog "
+          - button [ref=f1e13] [cursor=pointer]
+        - generic "Appointment Helpline" [ref=f1e16]:
+          - link [ref=f1e17] [cursor=pointer]:
+            - /url: tel:18002122
+            - img "Emergency Ambulance Desktop" [ref=f1e18]
+        - link [ref=f1e20] [cursor=pointer]:
+          - /url: tel:7997079970
+          - img "Emergency Ambulance Desktop" [ref=f1e21]
+        - link:
+          - /url: tel:7997079970
+        - link "Patient Portal" [ref=f1e23] [cursor=pointer]:
+          - /url: https://www.rainbowhospitals.in/patient-portal/login
+    - navigation [ref=f1e31]:
+      - list [ref=f1e33]:
+        - listitem [ref=f1e34]:
+          - link "Child Care" [ref=f1e35] [cursor=pointer]:
+            - /url: https://www.rainbowhospitals.in/centre-of-excellence/children-care-hospital
+        - listitem [ref=f1e36]:
+          - link "Women Care" [ref=f1e37] [cursor=pointer]:
+            - /url: https://www.rainbowhospitals.in/centre-of-excellence/obstetrics-maternity-hospital
+        - listitem [ref=f1e38]:
+          - link "Fertility Care" [ref=f1e39] [cursor=pointer]:
+            - /url: https://www.rainbowhospitals.in/centre-of-excellence/fertility-care-hospital
+        - listitem [ref=f1e40]:
+          - link "International Patients" [ref=f1e41] [cursor=pointer]:
+            - /url: https://www.rainbowhospitals.in/international-patients
+        - listitem [ref=f1e42]:
+          - link "Academics & Research" [ref=f1e43] [cursor=pointer]:
+            - /url: https://www.rainbowhospitals.in/academics
+        - listitem [ref=f1e44]:
+          - generic [ref=f1e45]: Investor Relations
+        - listitem [ref=f1e46]:
+          - link "Our Hospitals" [ref=f1e47] [cursor=pointer]:
+            - /url: https://www.rainbowhospitals.in/our-centers
+  - link "Enquire Now" [ref=f1e49] [cursor=pointer]:
+    - /url: javascript:void(0);
+  - generic [ref=f1e53]:
+    - generic [ref=f1e55]:
+      - generic [ref=f1e56]:
+        - heading "Centre of Excellence" [level=3] [ref=f1e57] [cursor=pointer]
+        - generic [ref=f1e62]:
+          - generic [ref=f1e63]:
+            - generic [ref=f1e64] [cursor=pointer]
+            - textbox "Search" [ref=f1e67]
+          - list [ref=f1e68]:
+            - listitem [ref=f1e69]:
+              - generic [ref=f1e70]: Child Care
+            - listitem [ref=f1e72]:
+              - generic [ref=f1e73]: Women Care
+            - listitem [ref=f1e75]:
+              - generic [ref=f1e76]: Fertility Care
+      - generic [ref=f1e78]:
+        - heading "Region" [level=3] [ref=f1e79] [cursor=pointer]
+        - generic [ref=f1e84]:
+          - generic [ref=f1e85]:
+            - generic [ref=f1e86] [cursor=pointer]
+            - textbox "Search for Region" [ref=f1e89]
+          - list [ref=f1e90]:
+            - listitem [ref=f1e91]:
+              - generic [ref=f1e92]: Hyderabad
+            - listitem [ref=f1e94]:
+              - generic [ref=f1e95]: Bengaluru
+            - listitem [ref=f1e97]:
+              - generic [ref=f1e98]: Delhi NCR
+            - listitem [ref=f1e100]:
+              - generic [ref=f1e101]: Chennai
+            - listitem [ref=f1e103]:
+              - generic [ref=f1e104]: Vijayawada
+            - listitem [ref=f1e106]:
+              - generic [ref=f1e107]: Visakhapatnam
+            - listitem [ref=f1e109]:
+              - generic [ref=f1e110]: Warangal
+            - listitem [ref=f1e112]:
+              - generic [ref=f1e113]: Guwahati
+            - listitem [ref=f1e115]:
+              - generic [ref=f1e116]: Rajahmundry
+            - listitem [ref=f1e118]:
+              - generic [ref=f1e119]: Nellore
+      - generic [ref=f1e121]:
+        - heading "Branch" [level=3] [ref=f1e122] [cursor=pointer]
+        - generic [ref=f1e127]:
+          - generic [ref=f1e128]:
+            - generic [ref=f1e129] [cursor=pointer]
+            - textbox "Search for Branch" [ref=f1e132]
+          - list [ref=f1e133]:
+            - listitem [ref=f1e134]:
+              - generic [ref=f1e135]: Banjara Hills
+            - listitem [ref=f1e137]:
+              - generic [ref=f1e138]: Hydernagar
+            - listitem [ref=f1e140]:
+              - generic [ref=f1e141]: Secunderabad
+            - listitem [ref=f1e143]:
+              - generic [ref=f1e144]: LB Nagar
+            - listitem [ref=f1e146]:
+              - generic [ref=f1e147]: Heart Institute, Banjara Rd 10
+            - listitem [ref=f1e149]:
+              - generic [ref=f1e150]: Kondapur OP
+            - listitem [ref=f1e152]:
+              - generic [ref=f1e153]: Kondapur IP
+            - listitem [ref=f1e155]:
+              - generic [ref=f1e156]: Financial District
+            - listitem [ref=f1e158]:
+              - generic [ref=f1e159]: Himayatnagar
+            - listitem [ref=f1e161]:
+              - generic [ref=f1e162]: Attapur Clinic
+            - listitem [ref=f1e164]:
+              - generic [ref=f1e165]: Hydernagar(BirthRight).
+            - listitem [ref=f1e167]:
+              - generic [ref=f1e168]: Child Development Centre - Banjarahills Rd No 10
+            - listitem [ref=f1e170]:
+              - generic [ref=f1e171]: LB Nagar - BirthRight Block
+            - listitem [ref=f1e173]:
+              - generic [ref=f1e174]: Rainbow Children’s Evening Clinic, Banjara Hills Road No. 10
+            - listitem [ref=f1e176]:
+              - generic [ref=f1e177]: Kompally Clinic
+            - listitem [ref=f1e179]:
+              - generic [ref=f1e180]: Kokapet
+      - generic [ref=f1e182]:
+        - heading "Language" [level=3] [ref=f1e183] [cursor=pointer]
+        - generic [ref=f1e188]:
+          - generic [ref=f1e189]:
+            - generic [ref=f1e190] [cursor=pointer]
+            - textbox "Search for Language" [ref=f1e193]
+          - list [ref=f1e194]:
+            - listitem [ref=f1e195]:
+              - generic [ref=f1e196]: Assamese
+            - listitem [ref=f1e198]:
+              - generic [ref=f1e199]: Bengali
+            - listitem [ref=f1e201]:
+              - generic [ref=f1e202]: Bhojpuri
+            - listitem [ref=f1e204]:
+              - generic [ref=f1e205]: English
+            - listitem [ref=f1e207]:
+              - generic [ref=f1e208]: French
+            - listitem [ref=f1e210]:
+              - generic [ref=f1e211]: Gujarati
+            - listitem [ref=f1e213]:
+              - generic [ref=f1e214]: Hindi
+            - listitem [ref=f1e216]:
+              - generic [ref=f1e217]: Kannada
+            - listitem [ref=f1e219]:
+              - generic [ref=f1e220]: Konkani
+            - listitem [ref=f1e222]:
+              - generic [ref=f1e223]: Malayalam
+            - listitem [ref=f1e225]:
+              - generic [ref=f1e226]: Marathi
+            - listitem [ref=f1e228]:
+              - generic [ref=f1e229]: Mizo
+            - listitem [ref=f1e231]:
+              - generic [ref=f1e232]: Nagamese
+            - listitem [ref=f1e234]:
+              - generic [ref=f1e235]: Odia
+            - listitem [ref=f1e237]:
+              - generic [ref=f1e238]: Punjabi
+            - listitem [ref=f1e240]:
+              - generic [ref=f1e241]: Tamil
+            - listitem [ref=f1e243]:
+              - generic [ref=f1e244]: Telugu
+            - listitem [ref=f1e246]:
+              - generic [ref=f1e247]: Tulu
+            - listitem [ref=f1e249]:
+              - generic [ref=f1e250]: Urdu
+      - generic [ref=f1e252]:
+        - heading "Gender" [level=3] [ref=f1e253] [cursor=pointer]
+        - list [ref=f1e259]:
+          - listitem [ref=f1e260]:
+            - generic [ref=f1e261]: Male
+          - listitem [ref=f1e263]:
+            - generic [ref=f1e264]: Female
+      - generic "Scroll to top" [ref=f1e267] [cursor=pointer]:
+        - img "up" [ref=f1e268]
+    - generic [ref=f1e269]:
+      - heading "Select Doctors" [level=1] [ref=f1e270]
+      - generic [ref=f1e271]:
+        - generic [ref=f1e272]:
+          - generic [ref=f1e273]:
+            - paragraph [ref=f1e274]:
+              - link "Dr. Dinesh Kumar Chirla.":
+                - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-dinesh-kumar-chirla-pediatric-intensivist
+                - img "Dr. Dinesh Kumar Chirla." [ref=f1e275] [cursor=pointer]
+            - generic [ref=f1e276]:
+              - heading "Dr. Dinesh Kumar Chirla." [level=2] [ref=f1e277]
+              - paragraph [ref=f1e278]: Director Intensive Care Services - Rainbow Children's Hospit..
+              - generic [ref=f1e279]: English, Hindi, Telugu
+              - generic [ref=f1e283]: Banjara Hills, Financial District
+          - link "Hospital Visit" [ref=f1e289] [cursor=pointer]:
+            - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-dinesh-kumar-chirla-pediatric-intensivist?t=pc
+        - generic [ref=f1e290]:
+          - generic [ref=f1e291]:
+            - paragraph [ref=f1e292]:
+              - link "Dr. PRANATHI REDDY A":
+                - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/obstetrics-maternity-hospital/dr-pranathi-reddy-obstetrician-gynecologist
+                - img "Dr. PRANATHI REDDY A" [ref=f1e293] [cursor=pointer]
+            - generic [ref=f1e294]:
+              - heading "Dr. Pranathi Reddy A" [level=2] [ref=f1e295]
+              - paragraph [ref=f1e296]: Clinical Director – Obstetrics & Gynecology...
+              - generic [ref=f1e297]: English, Hindi, Telugu
+              - generic [ref=f1e301]: Banjara Hills
+          - link "Hospital Visit" [ref=f1e307] [cursor=pointer]:
+            - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/obstetrics-maternity-hospital/dr-pranathi-reddy-obstetrician-gynecologist?t=pc
+        - generic [ref=f1e308]:
+          - generic [ref=f1e309]:
+            - paragraph [ref=f1e310]:
+              - link "Dr. PRASHANT BACHINA":
+                - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-prashant-bachina-pediatric-gastroenterologist
+                - img "Dr. PRASHANT BACHINA" [ref=f1e311] [cursor=pointer]
+            - generic [ref=f1e312]:
+              - heading "Dr. Prashant Bachina" [level=2] [ref=f1e313]
+              - paragraph [ref=f1e314]: Consultant - Gastroenterology..
+              - generic [ref=f1e315]: English, Hindi, Telugu
+              - generic [ref=f1e319]: Banjara Hills
+          - link "Hospital Visit" [ref=f1e325] [cursor=pointer]:
+            - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-prashant-bachina-pediatric-gastroenterologist?t=pc
+        - generic [ref=f1e326]:
+          - generic [ref=f1e327]:
+            - paragraph [ref=f1e328]:
+              - link "Dr. RAMESH KONANKI":
+                - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/secunderabad/children-care-hospital/dr-ramesh-konanki-pediatric-neurologist
+                - img "Dr. RAMESH KONANKI" [ref=f1e329] [cursor=pointer]
+            - generic [ref=f1e330]:
+              - heading "Dr. Ramesh Konanki" [level=2] [ref=f1e331]
+              - paragraph [ref=f1e332]: Director of Neurosciences, Senior Pediatric Neurologist..
+              - generic [ref=f1e333]: English, Hindi, Telugu
+              - generic [ref=f1e337]: Secunderabad, Banjara Hills
+          - link "Hospital Visit" [ref=f1e343] [cursor=pointer]:
+            - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/secunderabad/children-care-hospital/dr-ramesh-konanki-pediatric-neurologist?t=pc
+        - generic [ref=f1e344]:
+          - generic [ref=f1e345]:
+            - paragraph [ref=f1e346]:
+              - link "Dr. FAISAL B NAHDI":
+                - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-faisal-b-nahdi-pediatricain
+                - img "Dr. FAISAL B NAHDI" [ref=f1e347] [cursor=pointer]
+            - generic [ref=f1e348]:
+              - heading "Dr. Faisal B Nahdi" [level=2] [ref=f1e349]
+              - paragraph [ref=f1e350]: Pediatrician..
+              - generic [ref=f1e351]: English, Hindi
+              - generic [ref=f1e355]: Banjara Hills
+          - link "Hospital Visit" [ref=f1e361] [cursor=pointer]:
+            - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-faisal-b-nahdi-pediatricain?t=pc
+        - generic [ref=f1e362]:
+          - generic [ref=f1e363]:
+            - paragraph [ref=f1e364]:
+              - link "Dr. LEENATHA JAKKIDI":
+                - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/kondapur/children-care-hospital/dr-leenatha-jakkidi-pediatric-endocrinologist
+                - img "Dr. LEENATHA JAKKIDI" [ref=f1e365] [cursor=pointer]
+            - generic [ref=f1e366]:
+              - heading "Dr. Leenatha Jakkidi" [level=2] [ref=f1e367]
+              - paragraph [ref=f1e368]: Consultant - Pediatrician &Pediatric Endocrinologist..
+              - generic [ref=f1e369]: English, Hindi, Telugu
+              - generic [ref=f1e373]: Kondapur OP, Secunderabad, Banjara Hills, Financial District
+          - link "Hospital Visit" [ref=f1e379] [cursor=pointer]:
+            - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/kondapur/children-care-hospital/dr-leenatha-jakkidi-pediatric-endocrinologist?t=pc
+        - generic [ref=f1e380]:
+          - generic [ref=f1e381]:
+            - paragraph [ref=f1e382]:
+              - link "Dr. HARISH JAYARAM":
+                - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-harish-jayaram-pediatric-surgeon
+                - img "Dr. HARISH JAYARAM" [ref=f1e383] [cursor=pointer]
+            - generic [ref=f1e384]:
+              - heading "Dr. Harish Jayaram" [level=2] [ref=f1e385]
+              - paragraph [ref=f1e386]: Consultant Pediatric Surgeon & Pediatric Urologist..
+              - generic [ref=f1e387]: English, Hindi, Kannada, Tamil, Telugu
+              - generic [ref=f1e391]: Banjara Hills
+          - link "Hospital Visit" [ref=f1e397] [cursor=pointer]:
+            - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-harish-jayaram-pediatric-surgeon?t=pc
+        - generic [ref=f1e398]:
+          - generic [ref=f1e399]:
+            - paragraph [ref=f1e400]:
+              - link "Dr. Satya Prasad VVR":
+                - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-vvr-satya-prasad-pediatric-nephrologist
+                - img "Dr. Satya Prasad VVR" [ref=f1e401] [cursor=pointer]
+            - generic [ref=f1e402]:
+              - heading "Dr. Satya Prasad Vvr" [level=2] [ref=f1e403]
+              - paragraph [ref=f1e404]: Consultant - Pediatric Nephrologist..
+              - generic [ref=f1e405]: English, Hindi, Telugu
+              - generic [ref=f1e409]: Banjara Hills, Health City
+          - link "Hospital Visit" [ref=f1e415] [cursor=pointer]:
+            - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-vvr-satya-prasad-pediatric-nephrologist?t=pc
+        - generic [ref=f1e416]:
+          - generic [ref=f1e417]:
+            - paragraph [ref=f1e418]:
+              - link "Dr. SRINIVAS NAMINENI":
+                - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-srinivas-namineni
+                - img "Dr. SRINIVAS NAMINENI" [ref=f1e419] [cursor=pointer]
+            - generic [ref=f1e420]:
+              - heading "Dr. Srinivas Namineni" [level=2] [ref=f1e421]
+              - paragraph [ref=f1e422]: Consultant dentist..
+              - generic [ref=f1e423]: English, Hindi, Telugu
+              - generic [ref=f1e427]: Banjara Hills, Kondapur OP
+          - link "Hospital Visit" [ref=f1e433] [cursor=pointer]:
+            - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-srinivas-namineni?t=pc
+        - generic [ref=f1e434]:
+          - generic [ref=f1e435]:
+            - paragraph [ref=f1e436]:
+              - link "Dr. P V L N MURTHY":
+                - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/kondapur/children-care-hospital/dr-pvln-murthy-pediatric-ent-surgeon
+                - img "Dr. P V L N MURTHY" [ref=f1e437] [cursor=pointer]
+            - generic [ref=f1e438]:
+              - heading "Dr. P V L N Murthy" [level=2] [ref=f1e439]
+              - paragraph [ref=f1e440]: Pediatric ENT Surgeon..
+              - generic [ref=f1e441]: English, Hindi, Telugu
+              - generic [ref=f1e445]: Kondapur OP, Hydernagar, Banjara Hills
+          - link "Hospital Visit" [ref=f1e451] [cursor=pointer]:
+            - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/kondapur/children-care-hospital/dr-pvln-murthy-pediatric-ent-surgeon?t=pc
+        - generic [ref=f1e452]:
+          - generic [ref=f1e453]:
+            - paragraph [ref=f1e454]:
+              - link "Dr. VENKATA LAKSHMI A":
+                - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-a-venkatalakshmi-neonatologist
+                - img "Dr. VENKATA LAKSHMI A" [ref=f1e455] [cursor=pointer]
+            - generic [ref=f1e456]:
+              - heading "Dr. Venkata Lakshmi A" [level=2] [ref=f1e457]
+              - paragraph [ref=f1e458]: Consultant - Neonatologist & Pediatrician, Banjara Hills (Hy..
+              - generic [ref=f1e459]: English, Telugu
+              - generic [ref=f1e463]: Banjara Hills
+          - link "Hospital Visit" [ref=f1e469] [cursor=pointer]:
+            - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-a-venkatalakshmi-neonatologist?t=pc
+        - generic [ref=f1e470]:
+          - generic [ref=f1e471]:
+            - paragraph [ref=f1e472]:
+              - link "Dr. SHAIKH FARHAN A RASHID":
+                - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-farhan-shaikh-pediatric-intentisive-specialist
+                - img "Dr. SHAIKH FARHAN A RASHID" [ref=f1e473] [cursor=pointer]
+            - generic [ref=f1e474]:
+              - heading "Dr. Shaikh Farhan A Rashid" [level=2] [ref=f1e475]
+              - paragraph [ref=f1e476]: Consultant Pediatric Intensivist and Head of the Department ..
+              - generic [ref=f1e477]: English, Hindi
+              - generic [ref=f1e481]: Banjara Hills
+          - link "Hospital Visit" [ref=f1e487] [cursor=pointer]:
+            - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-farhan-shaikh-pediatric-intentisive-specialist?t=pc
+        - generic [ref=f1e488]:
+          - generic [ref=f1e489]:
+            - paragraph [ref=f1e490]:
+              - link "Dr. Leena Priyambada":
+                - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-priyambada-leena-pediatric-diabetologist-endocrinologist
+                - img "Dr. Leena Priyambada" [ref=f1e491] [cursor=pointer]
+            - generic [ref=f1e492]:
+              - heading "Dr. Leena Priyambada" [level=2] [ref=f1e493]
+              - paragraph [ref=f1e494]: Senior Consultant – Pediatric Endocrinology..
+              - generic [ref=f1e495]: English, Hindi, Telugu
+              - generic [ref=f1e499]: Banjara Hills, Secunderabad, Health City, Himayatnagar
+          - link "Hospital Visit" [ref=f1e505] [cursor=pointer]:
+            - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-priyambada-leena-pediatric-diabetologist-endocrinologist?t=pc
+        - generic [ref=f1e506]:
+          - generic [ref=f1e507]:
+            - paragraph [ref=f1e508]:
+              - link "Dr. Mainak Deb":
+                - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-mainak-deb-pediatric-surgeon-urologist-renal-transplant-surgeon
+                - img "Dr. Mainak Deb" [ref=f1e509] [cursor=pointer]
+            - generic [ref=f1e510]:
+              - heading "Dr. Mainak Deb" [level=2] [ref=f1e511]
+              - paragraph [ref=f1e512]: Consultant Pediatric surgeon, Pediatric Urologist and Pediat..
+              - generic [ref=f1e513]: Bengali, English, Hindi, Kannada, Telugu
+              - generic [ref=f1e517]: Banjara Hills, Guwahati
+          - link "Hospital Visit" [ref=f1e523] [cursor=pointer]:
+            - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-mainak-deb-pediatric-surgeon-urologist-renal-transplant-surgeon?t=pc
+        - generic [ref=f1e524]:
+          - generic [ref=f1e525]:
+            - paragraph [ref=f1e526]:
+              - link "Dr. Sandhya Vaddadi":
+                - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/secunderabad/children-care-hospital/dr-sandhya-vaddadi-pediatric-hematologist-oncologist
+                - img "Dr. Sandhya Vaddadi" [ref=f1e527] [cursor=pointer]
+            - generic [ref=f1e528]:
+              - heading "Dr. Sandhya Vaddadi" [level=2] [ref=f1e529]
+              - paragraph [ref=f1e530]: Consultant Hematology & Oncology, BMT..
+              - generic [ref=f1e531]: English, Hindi, Kannada, Telugu
+              - generic [ref=f1e535]: Secunderabad, Banjara Hills, Currency Nagar, Health City
+          - link "Hospital Visit" [ref=f1e541] [cursor=pointer]:
+            - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/secunderabad/children-care-hospital/dr-sandhya-vaddadi-pediatric-hematologist-oncologist?t=pc
+        - generic [ref=f1e542]:
+          - generic [ref=f1e543]:
+            - paragraph [ref=f1e544]:
+              - link "Dr. NALINIKANTA PANIGRAHY":
+                - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-nalinikanta-panigrahy-neonatologist-developmental-pediatrician
+                - img "Dr. NALINIKANTA PANIGRAHY" [ref=f1e545] [cursor=pointer]
+            - generic [ref=f1e546]:
+              - heading "Dr. Nalinikanta Panigrahy" [level=2] [ref=f1e547]
+              - paragraph [ref=f1e548]: Neonatologist & Development Pediatrician..
+              - generic [ref=f1e549]: English, Hindi
+              - generic [ref=f1e553]: Banjara Hills
+          - link "Hospital Visit" [ref=f1e559] [cursor=pointer]:
+            - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-nalinikanta-panigrahy-neonatologist-developmental-pediatrician?t=pc
+        - generic [ref=f1e560]:
+          - generic [ref=f1e561]:
+            - paragraph [ref=f1e562]:
+              - link "Dr. Vijayanand Jamalpuri":
+                - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-vijayanand-jamalpuri-neonatologist
+                - img "Dr. Vijayanand Jamalpuri" [ref=f1e563] [cursor=pointer]
+            - generic [ref=f1e564]:
+              - heading "Dr. Vijayanand Jamalpuri" [level=2] [ref=f1e565]
+              - paragraph [ref=f1e566]: Consultant Neonatologist and Pediatrician..
+              - generic [ref=f1e567]: English, Hindi, Telugu
+              - generic [ref=f1e571]: Banjara Hills
+          - link "Hospital Visit" [ref=f1e577] [cursor=pointer]:
+            - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-vijayanand-jamalpuri-neonatologist?t=pc
+        - generic [ref=f1e578]:
+          - generic [ref=f1e579]:
+            - paragraph [ref=f1e580]:
+              - link "Dr. UJJWALA DESAI":
+                - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-ujjwala-desai-rayudu-pediatrician
+                - img "Dr. UJJWALA DESAI" [ref=f1e581] [cursor=pointer]
+            - generic [ref=f1e582]:
+              - heading "Dr. Ujjwala Desai" [level=2] [ref=f1e583]
+              - paragraph [ref=f1e584]: Pediatrician..
+              - generic [ref=f1e585]: English, Telugu
+              - generic [ref=f1e589]: Banjara Hills
+          - link "Hospital Visit" [ref=f1e595] [cursor=pointer]:
+            - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-ujjwala-desai-rayudu-pediatrician?t=pc
+        - generic [ref=f1e596]:
+          - generic [ref=f1e597]:
+            - paragraph [ref=f1e598]:
+              - link "Dr. NITASHA BAGGA":
+                - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-nitasha-bagga-neonatologist-pediatrician
+                - img "Dr. NITASHA BAGGA" [ref=f1e599] [cursor=pointer]
+            - generic [ref=f1e600]:
+              - heading "Dr. Nitasha Bagga" [level=2] [ref=f1e601]
+              - paragraph [ref=f1e602]: Consultant - Pediatrician and Neonatologist, Banjara Hills (..
+              - generic [ref=f1e603]: English, Hindi, Telugu
+              - generic [ref=f1e607]: Banjara Hills
+          - link "Hospital Visit" [ref=f1e613] [cursor=pointer]:
+            - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-nitasha-bagga-neonatologist-pediatrician?t=pc
+        - generic [ref=f1e614]:
+          - generic [ref=f1e615]:
+            - paragraph [ref=f1e616]:
+              - link "Dr. ANUPAMA Y":
+                - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-anupama-yerra-pediatric-intensivist
+                - img "Dr. ANUPAMA Y" [ref=f1e617] [cursor=pointer]
+            - generic [ref=f1e618]:
+              - heading "Dr. Anupama Y" [level=2] [ref=f1e619]
+              - paragraph [ref=f1e620]: Senior Consultant – Pediatric Intensivist and pediatrcian..
+              - generic [ref=f1e621]: English, Hindi, Telugu
+              - generic [ref=f1e625]: Banjara Hills
+          - link "Hospital Visit" [ref=f1e631] [cursor=pointer]:
+            - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-anupama-yerra-pediatric-intensivist?t=pc
+        - generic [ref=f1e632]:
+          - generic [ref=f1e633]:
+            - paragraph [ref=f1e634]:
+              - link "Dr. KAPIL BHAGWATRAO SACHANE":
+                - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-kapil-bhagwatrao-sachane-pediatrican
+                - img "Dr. KAPIL BHAGWATRAO SACHANE" [ref=f1e635] [cursor=pointer]
+            - generic [ref=f1e636]:
+              - heading "Dr. Kapil Bhagwatrao Sachane" [level=2] [ref=f1e637]
+              - paragraph [ref=f1e638]: Consultant Neonatologist and Pediatric Intensivist..
+              - generic [ref=f1e639]: English, Telugu
+              - generic [ref=f1e643]: Banjara Hills, Financial District
+          - link "Hospital Visit" [ref=f1e649] [cursor=pointer]:
+            - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-kapil-bhagwatrao-sachane-pediatrican?t=pc
+        - generic [ref=f1e650]:
+          - generic [ref=f1e651]:
+            - paragraph [ref=f1e652]:
+              - link "Dr. ABHISHEK RAVINDRA JAIN":
+                - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-abhishek-ravindra-jain-pediatric-neurologist
+                - img "Dr. ABHISHEK RAVINDRA JAIN" [ref=f1e653] [cursor=pointer]
+            - generic [ref=f1e654]:
+              - heading "Dr. Abhishek Ravindra Jain" [level=2] [ref=f1e655]
+              - paragraph [ref=f1e656]: Consultant Pediatric Neurologist..
+              - generic [ref=f1e657]: English, Hindi, Telugu
+              - generic [ref=f1e661]: Banjara Hills, Himayatnagar
+          - link "Hospital Visit" [ref=f1e667] [cursor=pointer]:
+            - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/children-care-hospital/dr-abhishek-ravindra-jain-pediatric-neurologist?t=pc
+        - generic [ref=f1e668]:
+          - generic [ref=f1e669]:
+            - paragraph [ref=f1e670]:
+              - link "Dr. PRASANTHI ARIPIRALA":
+                - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/hydernagar/children-care-hospital/dr-prasanthi-aripirala-pediatric-neurologist-epileptologist
+                - img "Dr. PRASANTHI ARIPIRALA" [ref=f1e671] [cursor=pointer]
+            - generic [ref=f1e672]:
+              - heading "Dr. Prasanthi Aripirala" [level=2] [ref=f1e673]
+              - paragraph [ref=f1e674]: Consultant Pediatric Neurologist & Epileptologist..
+              - generic [ref=f1e675]: English, Hindi, Telugu
+              - generic [ref=f1e679]: Hydernagar, Banjara Hills
+          - link "Hospital Visit" [ref=f1e685] [cursor=pointer]:
+            - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/hydernagar/children-care-hospital/dr-prasanthi-aripirala-pediatric-neurologist-epileptologist?t=pc
+        - generic [ref=f1e686]:
+          - generic [ref=f1e687]:
+            - paragraph [ref=f1e688]:
+              - link "Dr. VENKATA RAM THYALAPALLI":
+                - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/hydernagar/children-care-hospital/dr-venkat-ram-thyalapalli-pediatric-orthopedician
+                - img "Dr. VENKATA RAM THYALAPALLI" [ref=f1e689] [cursor=pointer]
+            - generic [ref=f1e690]:
+              - heading "Dr. Venkata Ram Thyalapalli" [level=2] [ref=f1e691]
+              - paragraph [ref=f1e692]: Consultant - Pediatric Orthopedician & Ilizarov Specialist..
+              - generic [ref=f1e693]: English, Telugu
+              - generic [ref=f1e697]: Hydernagar, Banjara Hills
+          - link "Hospital Visit" [ref=f1e703] [cursor=pointer]:
+            - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/hydernagar/children-care-hospital/dr-venkat-ram-thyalapalli-pediatric-orthopedician?t=pc
+        - generic [ref=f1e704]:
+          - generic [ref=f1e705]:
+            - paragraph [ref=f1e706]:
+              - link "Dr. LAVANYA KANNAIYAN":
+                - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/kondapur/children-care-hospital/dr-lavanya-kannaiyan-pediatric-surgeon
+                - img "Dr. LAVANYA KANNAIYAN" [ref=f1e707] [cursor=pointer]
+            - generic [ref=f1e708]:
+              - heading "Dr. Lavanya Kannaiyan" [level=2] [ref=f1e709]
+              - paragraph [ref=f1e710]: Consultant - Pediatric Surgeon and Pediatric Urologist..
+              - generic [ref=f1e711]: English, Hindi, Telugu
+              - generic [ref=f1e715]: Kondapur OP, Hydernagar, Banjara Hills
+          - link "Hospital Visit" [ref=f1e721] [cursor=pointer]:
+            - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/kondapur/children-care-hospital/dr-lavanya-kannaiyan-pediatric-surgeon?t=pc
+        - generic [ref=f1e722]:
+          - generic [ref=f1e723]:
+            - paragraph [ref=f1e724]:
+              - link "Dr. GAURI VINAYAK DHAMANGAONKAR":
+                - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/kondapur/obstetrics-maternity-hospital/dr-gauri-vinayak-fetalmedicine
+                - img "Dr. GAURI VINAYAK DHAMANGAONKAR" [ref=f1e725] [cursor=pointer]
+            - generic [ref=f1e726]:
+              - heading "Dr. Gauri Vinayak Dhamangaonkar" [level=2] [ref=f1e727]
+              - paragraph [ref=f1e728]: Senior Consultant - Fetal Medicine..
+              - generic [ref=f1e729]: English, Hindi, Marathi, Telugu
+              - generic [ref=f1e733]: Kondapur OP, Banjara Hills
+          - link "Hospital Visit" [ref=f1e739] [cursor=pointer]:
+            - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/kondapur/obstetrics-maternity-hospital/dr-gauri-vinayak-fetalmedicine?t=pc
+        - generic [ref=f1e740]:
+          - generic [ref=f1e741]:
+            - paragraph [ref=f1e742]:
+              - link "Dr. Shruthi Reddy Poddutoor":
+                - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/obstetrics-maternity-hospital/dr-shruthi-reddy-poddutoor-obstetrician-gynecologist
+                - img "Dr. Shruthi Reddy Poddutoor" [ref=f1e743] [cursor=pointer]
+            - generic [ref=f1e744]:
+              - heading "Dr. Shruthi Reddy Poddutoor" [level=2] [ref=f1e745]
+              - paragraph [ref=f1e746]: Consultant Obstetrician, Gynecologist & Laparoscopic Surgeon..
+              - generic [ref=f1e747]: English, Telugu
+              - generic [ref=f1e751]: Banjara Hills
+          - link "Hospital Visit" [ref=f1e757] [cursor=pointer]:
+            - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/obstetrics-maternity-hospital/dr-shruthi-reddy-poddutoor-obstetrician-gynecologist?t=pc
+        - generic [ref=f1e758]:
+          - generic [ref=f1e759]:
+            - paragraph [ref=f1e760]:
+              - link "Dr. HIMABINDU VEERLA":
+                - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/obstetrics-maternity-hospital/dr-himabindu-veerla-obstetrician-gynecologist
+                - img "Dr. HIMABINDU VEERLA" [ref=f1e761] [cursor=pointer]
+            - generic [ref=f1e762]:
+              - heading "Dr. Himabindu Veerla" [level=2] [ref=f1e763]
+              - paragraph [ref=f1e764]: Consultant Obstetrician, Gynecologist & Laparoscopic Surgeon..
+              - generic [ref=f1e765]: English, Telugu
+              - generic [ref=f1e769]: Banjara Hills
+          - link "Hospital Visit" [ref=f1e775] [cursor=pointer]:
+            - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/obstetrics-maternity-hospital/dr-himabindu-veerla-obstetrician-gynecologist?t=pc
+        - generic [ref=f1e776]:
+          - generic [ref=f1e777]:
+            - paragraph [ref=f1e778]:
+              - link "Dr. BHARGAVI REDDY K":
+                - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/obstetrics-maternity-hospital/dr-bhargavi-reddy-obstetrician-gynecologist
+                - img "Dr. BHARGAVI REDDY K" [ref=f1e779] [cursor=pointer]
+            - generic [ref=f1e780]:
+              - heading "Dr. Bhargavi Reddy K" [level=2] [ref=f1e781]
+              - paragraph [ref=f1e782]: Consultant - Obstetrics and Gynecology..
+              - generic [ref=f1e783]: English, Hindi, Telugu
+              - generic [ref=f1e787]: Banjara Hills, Attapur Clinic
+          - link "Hospital Visit" [ref=f1e793] [cursor=pointer]:
+            - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/obstetrics-maternity-hospital/dr-bhargavi-reddy-obstetrician-gynecologist?t=pc
+        - generic [ref=f1e794]:
+          - generic [ref=f1e795]:
+            - paragraph [ref=f1e796]:
+              - link "Dr. ANNIE PRANUTHA P":
+                - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/obstetrics-maternity-hospital/dr-pranutha-annie-obstetrician-gynecologist
+                - img "Dr. ANNIE PRANUTHA P" [ref=f1e797] [cursor=pointer]
+            - generic [ref=f1e798]:
+              - heading "Dr. Annie Pranutha P" [level=2] [ref=f1e799]
+              - paragraph [ref=f1e800]: Consultant Obstetrics and Gynecology..
+              - generic [ref=f1e801]: English, Hindi, Telugu
+              - generic [ref=f1e805]: Banjara Hills, Attapur Clinic
+          - link "Hospital Visit" [ref=f1e811] [cursor=pointer]:
+            - /url: https://www.rainbowhospitals.in/all/doctor/hyderabad/banjara-hills-road/obstetrics-maternity-hospital/dr-pranutha-annie-obstetrician-gynecologist?t=pc
+      - link "Load More" [ref=f1e813] [cursor=pointer]:
+        - /url: javascript:void(0)
+  - generic [ref=f1e816]:
+    - generic [ref=f1e819]:
+      - generic [ref=f1e820]:
+        - generic [ref=f1e821]:
+          - heading "Patient Care" [level=3] [ref=f1e822]
+          - list [ref=f1e823]:
+            - listitem [ref=f1e824]:
+              - link "Find a Doctor" [ref=f1e825] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/our-doctors
+            - listitem [ref=f1e826]:
+              - link "Book Physical Consultation" [ref=f1e827] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/our-doctors?type=physical
+            - listitem [ref=f1e828]:
+              - link "Book Video Consultation" [ref=f1e829] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/our-doctors?type=video
+            - listitem [ref=f1e830]:
+              - link "Vaccination" [ref=f1e831] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/vaccination
+            - listitem [ref=f1e832]:
+              - link "Pregnancy Scan" [ref=f1e833] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/scans
+            - listitem [ref=f1e834]:
+              - link "International Patients" [ref=f1e835] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/international-patients
+            - listitem [ref=f1e836]:
+              - link "Online Antenatal Session" [ref=f1e837] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/anc
+            - listitem [ref=f1e838]:
+              - link "Online Postnatal Session" [ref=f1e839] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/pnc
+            - listitem [ref=f1e840]:
+              - link "AVON" [ref=f1e841] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/avon
+            - listitem [ref=f1e842]:
+              - link "Rainbow Shield" [ref=f1e843] [cursor=pointer]:
+                - /url: https://www.rainbowshield.in/
+        - generic [ref=f1e844]:
+          - heading "Centres of Excellence" [level=3] [ref=f1e845]
+          - list [ref=f1e846]:
+            - listitem [ref=f1e847]:
+              - link "Child Care" [ref=f1e848] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/centre-of-excellence/children-care-hospital
+            - listitem [ref=f1e849]:
+              - link "Women Care" [ref=f1e850] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/centre-of-excellence/obstetrics-maternity-hospital
+            - listitem [ref=f1e851]:
+              - link "Fertility Care" [ref=f1e852] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/centre-of-excellence/fertility-care-hospital
+        - generic [ref=f1e853]:
+          - heading "Hospitals Locations" [level=3] [ref=f1e854]
+          - list [ref=f1e855]:
+            - listitem [ref=f1e856]:
+              - link "Hospitals in Hyderabad" [ref=f1e857] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/our-centre-detail/hyderabad
+            - listitem [ref=f1e858]:
+              - link "Hospitals in Bengaluru" [ref=f1e859] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/our-centre-detail/bengaluru
+            - listitem [ref=f1e860]:
+              - link "Hospitals in Delhi NCR" [ref=f1e861] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/our-centre-detail/delhi
+            - listitem [ref=f1e862]:
+              - link "Hospitals in Chennai" [ref=f1e863] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/our-centre-detail/chennai
+            - listitem [ref=f1e864]:
+              - link "Hospitals in Vijayawada" [ref=f1e865] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/our-centre-detail/vijayawada
+            - listitem [ref=f1e866]:
+              - link "Hospitals in Visakhapatnam" [ref=f1e867] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/our-centre-detail/visakhapatnam
+            - listitem [ref=f1e868]:
+              - link "Hospitals in Warangal" [ref=f1e869] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/our-centre-detail/warangal
+            - listitem [ref=f1e870]:
+              - link "Hospitals in Guwahati" [ref=f1e871] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/our-centre-detail/guwahati
+            - listitem [ref=f1e872]:
+              - link "Hospitals in Rajahmundry" [ref=f1e873] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/our-centre-detail/rajahmundry
+            - listitem [ref=f1e874]:
+              - link "Hospitals in Nellore" [ref=f1e875] [cursor=pointer]:
+                - /url: https://www.rainbowhospitals.in/our-centre-detail/nellore
+      - generic [ref=f1e877]:
+        - heading "Top Specialities" [level=3] [ref=f1e878]
+        - list [ref=f1e879]:
+          - listitem [ref=f1e880]:
+            - link "Emergency Care" [ref=f1e881] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/emergency-services
+          - listitem [ref=f1e882]:
+            - link "General Pediatrician" [ref=f1e883] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/children-care-hospital/speciality/general-pediatrics-hospital
+          - listitem [ref=f1e884]:
+            - link "Neonatal Intensive Care Unit" [ref=f1e885] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/children-care-hospital/speciality/neonatal-intensive-care-unit-hospital
+          - listitem [ref=f1e886]:
+            - link "Pediatric Intensive Care Unit" [ref=f1e887] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/children-care-hospital/speciality/pediatric-intensive-care-unit-hospital
+          - listitem [ref=f1e888]:
+            - link "Pediatric Neurology" [ref=f1e889] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/children-care-hospital/speciality/pediatric-neurology-hospital
+          - listitem [ref=f1e890]:
+            - link "Pediatric Hemato- Oncology" [ref=f1e891] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/children-care-hospital/speciality/pediatric-hematology-and-oncology-hospital
+          - listitem [ref=f1e892]:
+            - link "Pediatric ENT" [ref=f1e893] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/children-care-hospital/speciality/pediatric-ent-and-airway-hospital
+          - listitem [ref=f1e894]:
+            - link "Pediatric Urologist" [ref=f1e895] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/children-care-hospital/speciality/pediatrics-urology-hospital
+          - listitem [ref=f1e896]:
+            - link "Pediatric Gastroenterologist" [ref=f1e897] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/children-care-hospital/speciality/pediatric-gastroenterology-hepatology-hospital
+          - listitem [ref=f1e898]:
+            - link "Pediatric Cardiologist" [ref=f1e899] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/children-care-hospital/speciality/pediatric-cardiology-hospital
+          - listitem [ref=f1e900]:
+            - link "Pediatric Orthopedics" [ref=f1e901] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/children-care-hospital/speciality/pediatric-orthopedic-hospital
+          - listitem [ref=f1e902]:
+            - link "Pediatric Ophthalmology" [ref=f1e903] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/children-care-hospital/speciality/pediatric-ophthalmology-hospital
+          - listitem [ref=f1e904]:
+            - link "Pediatric Dentistry" [ref=f1e905] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/children-care-hospital/speciality/pediatric-dental-hospital
+          - listitem [ref=f1e906]:
+            - link "Pediatric Physiotherapy" [ref=f1e907] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/children-care-hospital/speciality/pediatric-physiotherapy-and-rehabilitation-hospital
+          - listitem [ref=f1e908]:
+            - link "Pediatric Endocrinology" [ref=f1e909] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/children-care-hospital/speciality/pediatric-endocrinology-hospital
+          - listitem [ref=f1e910]:
+            - link "Women’s Nutrition" [ref=f1e911] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/obstetrics-maternity-hospital/speciality/women-nutrition-hospital
+          - listitem [ref=f1e912]:
+            - link "Pregnancy & Delivery" [ref=f1e913] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/obstetrics-maternity-hospital/speciality/pregnancy-and-delivery-hospital
+          - listitem [ref=f1e914]:
+            - link "Painless Delivery & Labor" [ref=f1e915] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/obstetrics-maternity-hospital/speciality/painless-delivery-and-labor-hospital
+          - listitem [ref=f1e916]:
+            - link "In Vitro Fertilization (IVF)" [ref=f1e917] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/fertility-care-hospital/speciality/in-vitro-fertilization-treatment
+          - listitem [ref=f1e918]:
+            - link "Infertility" [ref=f1e919] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/fertility-care-hospital/speciality/infertility-treatment
+      - generic [ref=f1e921]:
+        - heading "Quick Search" [level=3] [ref=f1e922]
+        - list [ref=f1e923]:
+          - listitem [ref=f1e924]:
+            - link "Best Pediatrician in Hyderabad" [ref=f1e925] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/doctors/best-pediatrician-in-hyderabad
+          - listitem [ref=f1e926]:
+            - link "Best Pediatrician in Bengaluru" [ref=f1e927] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/doctors/best-pediatrician-in-bangalore
+          - listitem [ref=f1e928]:
+            - link "Best Pediatrician in Delhi" [ref=f1e929] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/doctors/best-pediatrician-in-delhi
+          - listitem [ref=f1e930]:
+            - link "Best Pediatrician in Chennai" [ref=f1e931] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/doctors/best-pediatrician-in-chennai
+          - listitem [ref=f1e932]:
+            - link "Best Pediatrician in Vijayawada" [ref=f1e933] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/doctors/best-pediatrician-in-vijayawada
+          - listitem [ref=f1e934]:
+            - link "Best Pediatrician in Vizag" [ref=f1e935] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/doctors/best-pediatrician-in-vizag
+          - listitem [ref=f1e936]:
+            - link "Best Gynecology and Obstetrician in Hyderabad" [ref=f1e937] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/doctors/best-gynecologist-in-hyderabad
+          - listitem [ref=f1e938]:
+            - link "Best Gynecology and Obstetrician in Bengaluru" [ref=f1e939] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/doctors/best-gynecologist-in-bangalore
+          - listitem [ref=f1e940]:
+            - link "Best Gynecology and Obstetrician in Delhi" [ref=f1e941] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/doctors/best-gynecologist-in-delhi
+          - listitem [ref=f1e942]:
+            - link "Best Gynecology and Obstetrician in Chennai" [ref=f1e943] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/doctors/best-gynecologist-in-chennai
+          - listitem [ref=f1e944]:
+            - link "Best Gynecology and Obstetrician in Vijayawada" [ref=f1e945] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/doctors/best-gynecologist-in-vijayawada
+          - listitem [ref=f1e946]:
+            - link "Best Gynecology and Obstetrician in Vizag" [ref=f1e947] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/doctors/best-gynecologist-in-vizag
+          - listitem [ref=f1e948]:
+            - link "Best Fertility Specialist in Hyderabad" [ref=f1e949] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/doctors/best-fertility-specialist-in-hyderabad
+          - listitem [ref=f1e950]:
+            - link "Best Fertility Specialist in Bengaluru" [ref=f1e951] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/doctors/fertility-specialists-in-bangalore
+          - listitem [ref=f1e952]:
+            - link "Best Fertility Specialist in Delhi" [ref=f1e953] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/doctors/best-fertility-doctor-in-delhi
+          - listitem [ref=f1e954]:
+            - link "Best Fertility Specialist in Chennai" [ref=f1e955] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/doctors/best-fertility-doctor-in-chennai
+          - listitem [ref=f1e956]:
+            - link "Best Fertility Specialist in Vijayawada" [ref=f1e957] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/doctors/best-fertility-doctors-in-vijayawada
+          - listitem [ref=f1e958]:
+            - link "Best Fertility Specialist in Vizag" [ref=f1e959] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/doctors/best-fertility-doctor-in-vizag
+      - generic [ref=f1e961]:
+        - heading "Corporate" [level=3] [ref=f1e962]
+        - list [ref=f1e963]:
+          - listitem [ref=f1e964]:
+            - link "About Us" [ref=f1e965] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/about
+          - listitem [ref=f1e966]:
+            - link "Investor Relations" [ref=f1e967] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/investors-relations/shareholder-information
+          - listitem [ref=f1e968]:
+            - link "SEBI Smart ODR Portal" [ref=f1e969] [cursor=pointer]:
+              - /url: https://smartodr.in/login
+          - listitem [ref=f1e970]:
+            - link "SEBI Scores Portal" [ref=f1e971] [cursor=pointer]:
+              - /url: https://scores.sebi.gov.in/
+          - listitem [ref=f1e972]:
+            - link "Careers" [ref=f1e973] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/careers
+          - listitem [ref=f1e974]:
+            - link "ESG" [ref=f1e975] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/esg
+          - listitem [ref=f1e976]:
+            - link "BMW" [ref=f1e977] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/bio-medical-waste
+          - listitem [ref=f1e978]:
+            - link "Quality & Accreditation" [ref=f1e979] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/about-us/quality-accreditation
+          - listitem [ref=f1e980]:
+            - link "Contact Us" [ref=f1e981] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/contact-us
+          - listitem [ref=f1e982]:
+            - link "Blogs" [ref=f1e983] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/blogs
+          - listitem [ref=f1e984]:
+            - link "Videos" [ref=f1e985] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/videos
+          - listitem [ref=f1e986]:
+            - link "Awards" [ref=f1e987] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/awards
+          - listitem [ref=f1e988]:
+            - link "Media" [ref=f1e989] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/media
+          - listitem [ref=f1e990]:
+            - link "Pregnancy Calculators" [ref=f1e991] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/calculators
+          - listitem [ref=f1e992]:
+            - link "Terms and conditions" [ref=f1e993] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/terms-and-conditions
+          - listitem [ref=f1e994]:
+            - link "Our Partners" [ref=f1e995] [cursor=pointer]:
+              - /url: https://www.rainbowhospitals.in/our-partners
+        - generic [ref=f1e996]:
+          - link [ref=f1e997] [cursor=pointer]:
+            - /url: https://apps.apple.com/us/app/rainbow-hospitals/id6760179478
+            - img "Best Children Hospital" [ref=f1e998]
+          - link [ref=f1e999] [cursor=pointer]:
+            - /url: https://play.google.com/store/apps/details?id=com.sparctechnologies.rainbow
+            - img "Best Children Hospital" [ref=f1e1000]
+    - generic [ref=f1e1006]:
+      - list [ref=f1e1007]:
+        - listitem [ref=f1e1008]:
+          - link [ref=f1e1009] [cursor=pointer]:
+            - /url: https://www.facebook.com/rainbowchildrenshospitals/
+            - img "Best Children Hospital" [ref=f1e1010]
+        - listitem [ref=f1e1011]:
+          - link [ref=f1e1012] [cursor=pointer]:
+            - /url: https://www.instagram.com/rainbowchildrenshospital/
+            - img "Best Children Hospital" [ref=f1e1013]
+        - listitem [ref=f1e1014]:
+          - link [ref=f1e1015] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/rainbow-hospitals/
+            - img "Best Children Hospital" [ref=f1e1016]
+        - listitem [ref=f1e1017]:
+          - link [ref=f1e1018] [cursor=pointer]:
+            - /url: https://twitter.com/RCH_India?t=7y-Tq_FTQ4cfPf8smLnYUg&s=08
+            - img "Best Children Hospital" [ref=f1e1019]
+        - listitem [ref=f1e1020]:
+          - link [ref=f1e1021] [cursor=pointer]:
+            - /url: https://youtube.com/@rainbowchildrenshospital?si=0nGclgW-WRX984eQ
+            - img "Best Children Hospital" [ref=f1e1022]
+      - paragraph [ref=f1e1024]: Copyright © 2026. All Rights Reserved by Rainbow Children’s Medicare Ltd.
+    - link [ref=f1e1026] [cursor=pointer]:
+      - /url: https://wa.me/+918008821031?text=Hi
