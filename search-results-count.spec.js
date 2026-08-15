@@ -19,4 +19,5 @@ test('search "Dell laptop" shows results and displays a non-zero result count', 
   const bodyText = (await page.locator('body').innerText()).toLowerCase();
   expect(bodyText).toContain('results');
   expect(bodyText).toContain('results');
+  expect(bodyText).toContain('results');
 });
