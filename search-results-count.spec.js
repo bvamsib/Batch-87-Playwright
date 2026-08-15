@@ -17,6 +17,7 @@ test('search "Dell laptop" shows results and displays a non-zero result count', 
  const searchBox = page.locator('#twotabsearchtextbox');
   await expect(searchBox).toBeVisible({ timeout: 10000 });
   await searchBox.fill('Dell laptop');
+    await searchBox.fill('Dell laptop');
   await page.locator('#nav-search-submit-button').click();
 
   // Optional: verify the page contains a textual summary mentioning "results" to give additional confidence
